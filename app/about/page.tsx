@@ -7,7 +7,7 @@ import { SiteFooter } from "@/components/SiteFooter";
 
 export const metadata: Metadata = {
   title: "Research and editorial policy",
-  description: "How Neuromancer Atlas researches, labels, cites, and illustrates its 175+ reader-focused articles.",
+  description: "How Neuromancer Atlas researches, labels, cites, and illustrates its 180 reader-focused articles.",
 };
 
 export default function AboutPage() {
@@ -67,7 +67,7 @@ export default function AboutPage() {
               <section>
                 <p className="eyebrow">Reader glossary</p>
                 <h2>Small details deserve full explanations.</h2>
-                <p>The {microLoreArticles.length} additional field notes address the compressed names, objects, places, slang, toxins, drugs, weapons, computers, money, and music that often interrupt a first reading. Each page contains at least 650 words, records its own targeted searches, and separates what the novel states from what readers or adaptations infer. The Mycotoxin entry exceeds the priority-dossier standard with 20 searches and 35 consulted pages.</p>
+                <p>The {microLoreArticles.length} additional field notes address the compressed names, objects, places, slang, toxins, drugs, weapons, computers, money, and music that often interrupt a first reading. Each page contains at least 650 words, records its own targeted searches, and separates what the novel states from what readers or adaptations infer. The Mycotoxin, Flip-Flop Switch, Memory Lane, and Précis entries each meet or exceed the expanded ten-search, twenty-source standard.</p>
                 <p><Link href="/glossary">Browse the first-reader glossary →</Link></p>
               </section>
               <section className="about-callout">

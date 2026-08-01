@@ -11,17 +11,21 @@ export interface SearchRecord {
   tags: string[];
 }
 
+function normalizeSearchText(value: string) {
+  return value.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
+}
+
 export function SearchBox({ records, compact = false }: { records: SearchRecord[]; compact?: boolean }) {
   const basePath = process.env.NEXT_PUBLIC_BASE_PATH ?? "";
   const [query, setQuery] = useState("");
-  const normalized = query.trim().toLowerCase();
+  const normalized = normalizeSearchText(query.trim());
   const matches = useMemo(() => {
     if (normalized.length < 2) return [];
     return records
       .map((record) => {
-        const title = record.title.toLowerCase();
-        const tags = record.tags.join(" ").toLowerCase();
-        const description = record.description.toLowerCase();
+        const title = normalizeSearchText(record.title);
+        const tags = normalizeSearchText(record.tags.join(" "));
+        const description = normalizeSearchText(record.description);
         let score = 0;
         if (title === normalized) score += 100;
         if (title.startsWith(normalized)) score += 40;

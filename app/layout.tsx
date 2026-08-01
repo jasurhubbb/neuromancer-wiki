@@ -21,7 +21,7 @@ export const metadata: Metadata = {
     default: "Neuromancer Atlas — A field guide to the Sprawl",
     template: "%s · Neuromancer Atlas",
   },
-  description: "A researched, spoiler-aware reader’s wiki for William Gibson’s Neuromancer: 175+ articles on characters, places, small details, the matrix, themes, chapters, and cultural influence.",
+  description: "A researched, spoiler-aware reader’s wiki for William Gibson’s Neuromancer: 180 articles on characters, places, small details, the matrix, themes, chapters, and cultural influence.",
   applicationName: "Neuromancer Atlas",
   authors: [{ name: "Neuromancer Atlas editors" }],
   icons: {
@@ -33,13 +33,13 @@ export const metadata: Metadata = {
     type: "website",
     siteName: "Neuromancer Atlas",
     title: "Neuromancer Atlas",
-    description: "A field guide to the Sprawl — 175+ researched, interconnected articles.",
+    description: "A field guide to the Sprawl — 180 researched, interconnected articles.",
     images: [{ url: `${deploymentBase}/og.png`, width: 1200, height: 630, alt: "Neuromancer Atlas — A field guide to the Sprawl" }],
   },
   twitter: {
     card: "summary_large_image",
     title: "Neuromancer Atlas",
-    description: "A field guide to the Sprawl — 175+ researched, interconnected articles.",
+    description: "A field guide to the Sprawl — 180 researched, interconnected articles.",
     images: [`${deploymentBase}/og.png`],
   },
 };

@@ -126,4 +126,19 @@ export const quotationBySlug: Record<string, BookQuote> = {
     citation: "Neuromancer, Part One, Chapter 1",
     note: "The sentence gives the poison a military history and a precise consequence while withholding its chemical identity.",
   },
+  "flip-flop-switch": {
+    text: "It’s a flipflop switch, basically.",
+    citation: "Neuromancer, Part Two, Chapter 3",
+    note: "Finn gives Case a functional shop-floor label, not a circuit diagram or product specification.",
+  },
+  "memory-lane": {
+    text: "Two blocks later, she was threading the outskirts of Memory Lane.",
+    citation: "Neuromancer, Part Two, Chapter 4",
+    note: "The route locator establishes Memory Lane as a physical Sprawl destination seen through Molly’s movement.",
+  },
+  precis: {
+    text: "Five minute precis.",
+    citation: "Neuromancer, Part Two, Chapter 4",
+    note: "Case specifies the briefing’s intended duration, not a named application or a documented processing deadline.",
+  },
 };

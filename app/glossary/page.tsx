@@ -18,8 +18,8 @@ const groupDefinitions = [
     eyebrow: "01 / Memory & machines",
     title: "Computers the novel never pauses to unpack.",
     description:
-      "Separate hot RAM from personality RAM, a pocket computer from a deck, and Case’s Ono-Sendai from the Hosaka systems around it.",
-    slugs: ["ram-hot-memory", "case-hitachi-pocket-computer", "ono-sendai-cyberspace-seven", "hosaka-computers"],
+      "Separate hot RAM from personality RAM, a pocket computer from a deck, Case’s Ono-Sendai from Finn’s switch, and a Hosaka précis from the machine that composes it.",
+    slugs: ["ram-hot-memory", "case-hitachi-pocket-computer", "ono-sendai-cyberspace-seven", "flip-flop-switch", "hosaka-computers", "precis"],
   },
   {
     id: "street-kit",
@@ -41,12 +41,12 @@ const groupDefinitions = [
     ],
   },
   {
-    id: "chiba-coordinates",
-    eyebrow: "03 / Chiba coordinates",
-    title: "Three addresses in the neon blur.",
+    id: "street-coordinates",
+    eyebrow: "03 / Street coordinates",
+    title: "Four addresses inside the urban blur.",
     description:
-      "The Hilton recruitment suite, Jarre de Thé, and the Namban each do a different job in Case’s compressed street map.",
-    slugs: ["chiba-hilton", "jarre-de-the", "namban"],
+      "Three Chiba stops and the Sprawl’s Memory Lane show how Gibson builds a street map from encounters rather than directions.",
+    slugs: ["chiba-hilton", "jarre-de-the", "namban", "memory-lane"],
   },
   {
     id: "freeside-addresses",
@@ -101,7 +101,7 @@ export default function GlossaryPage() {
             </div>
             <div className="page-hero__aside">
               <p>
-                RAM? Mycotoxin? Joeboy? Chiba Hilton? Gibson explains his future by momentum. These pages
+                RAM? Mycotoxin? Flip-flop switch? Memory Lane? Gibson explains his future by momentum. These pages
                 stop, identify the detail, and then put it back into the scene.
               </p>
               <div className="page-stat"><strong>{microLoreArticles.length}</strong><span>small signals decoded</span></div>
@@ -121,8 +121,8 @@ export default function GlossaryPage() {
             </div>
             <dl className="glossary-metrics" aria-label="Glossary depth">
               <div><dt>Long-form prose</dt><dd>{glossaryWords.toLocaleString()}</dd><span>words</span></div>
-              <div><dt>Recorded searches</dt><dd>95</dd><span>{`across ${microLoreArticles.length} entries`}</span></div>
-              <div><dt>Consulted links</dt><dd>119</dd><span>source trail</span></div>
+              <div><dt>Recorded searches</dt><dd>142</dd><span>{`across ${microLoreArticles.length} entries`}</span></div>
+              <div><dt>Consulted links</dt><dd>203</dd><span>source trail</span></div>
             </dl>
           </section>
 

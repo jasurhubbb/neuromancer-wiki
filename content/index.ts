@@ -9,6 +9,9 @@ import { bridgeArticles } from "./bridges";
 import { microtechnologyArticles } from "./microtechnology";
 import { microplacesLoreArticles } from "./microplaces-lore";
 import { mycotoxinArticles } from "./mycotoxin";
+import { flipFlopSwitchArticles } from "./flip-flop-switch";
+import { memoryLaneArticles } from "./memory-lane";
+import { precisArticles } from "./precis";
 import { quotationBySlug } from "./quotes";
 import { editorialCodaBySlug, editorialExpansionBySlug } from "./editorial-expansions";
 import type { WikiArticle } from "./types";
@@ -48,10 +51,20 @@ const rawArticles = [
   ...microtechnologyArticles,
   ...microplacesLoreArticles,
   ...mycotoxinArticles,
+  ...flipFlopSwitchArticles,
+  ...memoryLaneArticles,
+  ...precisArticles,
 ];
 
 export const microLoreSlugs = new Set(
-  [...microtechnologyArticles, ...microplacesLoreArticles, ...mycotoxinArticles].map((article) => article.slug),
+  [
+    ...microtechnologyArticles,
+    ...microplacesLoreArticles,
+    ...mycotoxinArticles,
+    ...flipFlopSwitchArticles,
+    ...memoryLaneArticles,
+    ...precisArticles,
+  ].map((article) => article.slug),
 );
 
 const relatedMicroLoreBySlug: Record<string, string[]> = {
@@ -63,13 +76,24 @@ const relatedMicroLoreBySlug: Record<string, string[]> = {
   "case-biomedical-controls": ["mycotoxin"],
   "chapter-01": ["mycotoxin"],
   "chapter-02": ["mycotoxin"],
-  "chapter-03": ["mycotoxin"],
+  "cyberspace-decks": ["flip-flop-switch"],
+  "simstim-sensorium": ["flip-flop-switch", "memory-lane"],
+  "ono-sendai-cyberspace-seven": ["flip-flop-switch"],
+  "the-finn": ["flip-flop-switch"],
+  "chapter-03": ["flip-flop-switch", "mycotoxin"],
+  "chapter-04": ["memory-lane", "flip-flop-switch", "precis"],
   "chapter-24": ["mycotoxin"],
   wintermute: ["mycotoxin"],
   "cheap-hotel": ["chiba-hilton", "case-hitachi-pocket-computer"],
   "chiba-city": ["chiba-hilton", "jarre-de-the", "namban"],
   "armitage-willis-corto": ["chiba-hilton"],
   freeside: ["intercontinental-freeside", "desiderata-street", "vingtieme-siecle"],
+  "sprawl-bama": ["memory-lane"],
+  microsofts: ["memory-lane"],
+  "panther-moderns": ["memory-lane", "precis"],
+  johnny: ["memory-lane"],
+  "hosaka-computers": ["precis"],
+  "mimetic-polycarbon-suit": ["precis"],
 };
 
 const contextualImageBySlug: Record<string, string> = {

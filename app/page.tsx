@@ -9,16 +9,16 @@ import { ArticleCard } from "@/components/ArticleCard";
 
 export const metadata: Metadata = {
   title: "Neuromancer Atlas — A field guide to the Sprawl",
-  description: "Explore 175+ researched pages about William Gibson’s Neuromancer: characters, locations, cyberspace, technology, chapter guides, small details, themes, and influence.",
+  description: "Explore 180 researched pages about William Gibson’s Neuromancer: characters, locations, cyberspace, technology, chapter guides, small details, themes, and influence.",
 };
 
 const glossaryHighlights = [
   "ram-hot-memory",
-  "chiba-hilton",
   "mycotoxin",
-  "cobra-weapon-not-drug",
+  "flip-flop-switch",
+  "memory-lane",
   "ono-sendai-cyberspace-seven",
-  "new-yen",
+  "precis",
 ].flatMap((slug) => {
   const article = articleBySlug.get(slug);
   return article ? [article] : [];
@@ -51,7 +51,7 @@ export default function Home() {
           </div>
           <div className="home-hero__search">
             <SearchBox records={searchRecords} />
-            <p><strong>New to the book?</strong> Use the <Link href="/glossary">first-reader glossary</Link> for RAM, mycotoxin, joeboys, New Yen, Chiba addresses, and other unexplained signals. Full-book pages are clearly gated.</p>
+            <p><strong>New to the book?</strong> Use the <Link href="/glossary">first-reader glossary</Link> for RAM, mycotoxin, the flip-flop switch, Memory Lane, and other unexplained signals. Full-book pages are clearly gated.</p>
           </div>
         </section>
 
@@ -88,7 +88,7 @@ export default function Home() {
             <div><p className="eyebrow">Small signals, full explanations</p><h2 id="home-glossary-title">The details readers search mid-page.</h2></div>
             <Link href="/glossary">{`Open all ${microLoreArticles.length}`} <span aria-hidden="true">→</span></Link>
           </div>
-          <p className="home-glossary__intro">What is “hot” RAM? What did the mycotoxin do to Case? Is Cobra a drug? Where is the Chiba Hilton in his route? Each answer is a long field note with canon limits, scene context, sources, and links back into the novel.</p>
+          <p className="home-glossary__intro">What is “hot” RAM? What did the mycotoxin do to Case? What does Finn’s flip-flop switch actually switch? Is Memory Lane a place or a technology? Each answer is a long field note with canon limits, scene context, sources, and links back into the novel.</p>
           <div className="card-grid">
             {glossaryHighlights.map((article) => <ArticleCard key={article.slug} article={article} />)}
           </div>

@@ -12,7 +12,7 @@ test("exports the complete atlas home page", async () => {
   assert.match(html, /480\+<\/strong><span>source reads/);
   assert.match(html, /Research you can audit/);
   assert.match(html, /The details readers search mid-page/);
-  assert.match(html, /Open all 25/);
+  assert.match(html, /Open all 28/);
   assert.doesNotMatch(html, /Your site is taking shape|react-loading-skeleton/);
 });
 
@@ -25,11 +25,12 @@ test("exports long-form articles and their source apparatus", async () => {
   assert.match(html, /Related field notes/);
 });
 
-test("exports all 177 articles and the first-reader glossary", async () => {
+test("exports all 180 articles and the first-reader glossary", async () => {
   const glossary = await readFile(new URL("glossary/index.html", outputRoot), "utf8");
   assert.match(glossary, /What did that mean\?/);
   assert.match(glossary, /No stub definitions/);
-  assert.match(glossary, /95<\/dd><span>across 25 entries/);
+  assert.match(glossary, /142<\/dd><span>across 28 entries/);
+  assert.match(glossary, /203<\/dd><span>source trail/);
 
   const ram = await readFile(new URL("wiki/ram-hot-memory/index.html", outputRoot), "utf8");
   assert.match(ram, /RAM in Neuromancer/);
@@ -47,8 +48,29 @@ test("exports all 177 articles and the first-reader glossary", async () => {
   assert.match(mycotoxin, /The fifteen sacs/);
   assert.match(mycotoxin, /World Health Organization/);
 
+  const flipFlop = await readFile(new URL("wiki/flip-flop-switch/index.html", outputRoot), "utf8");
+  assert.match(flipFlop, /Flip-Flop Switch/);
+  assert.match(flipFlop, /It’s a flipflop switch, basically\./);
+  assert.match(flipFlop, /selector|multiplexer/i);
+  assert.match(flipFlop, /Texas Instruments/);
+  assert.match(flipFlop, /Functional map · not a circuit schematic/);
+
+  const memoryLane = await readFile(new URL("wiki/memory-lane/index.html", outputRoot), "utf8");
+  assert.match(memoryLane, /Memory Lane/);
+  assert.match(memoryLane, /threading the outskirts of Memory Lane/);
+  assert.match(memoryLane, /software-rental/i);
+  assert.match(memoryLane, /Johnny/);
+  assert.match(memoryLane, /Chapter 4 route evidence/);
+
+  const precis = await readFile(new URL("wiki/precis/index.html", outputRoot), "utf8");
+  assert.match(precis, /Précis/);
+  assert.match(precis, /Five minute precis\./);
+  assert.match(precis, /libraries, journals, and news services/i);
+  assert.match(precis, /Merriam-Webster/);
+  assert.match(precis, /Chapter 4 information flow/);
+
   const wikiEntries = await readdir(new URL("wiki/", outputRoot), { withFileTypes: true });
-  assert.equal(wikiEntries.filter((entry) => entry.isDirectory()).length, 177);
+  assert.equal(wikiEntries.filter((entry) => entry.isDirectory()).length, 180);
 });
 
 test("exports the public research ledger and static assets", async () => {

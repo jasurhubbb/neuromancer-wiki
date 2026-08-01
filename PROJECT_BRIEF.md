@@ -7,6 +7,7 @@
 - Maintain a deep micro-lore layer for first-time-reader questions: minor tools, memory terminology, drugs, slang, venues, brands, and one-scene concepts deserve their own page when a reader is likely to stop and search. RAM and the Chiba Hilton are required examples.
 - Keep every page genuinely long: at least 450 words of article-specific overview/section prose, with at least 650 words on each of the 20 priority dossiers. Layout text, facts, tags, sources, and navigation do not count toward those floors.
 - Begin with 20 priority articles and research each one with at least 10 distinct web searches and at least 20 fetched sources. Preserve an auditable research ledger in `research/`.
+- Apply that same 10-search / 20-consulted-page floor to every newly commissioned micro-lore page, including one-scene objects, tools, places, and unfamiliar words. Its individual ledger must state and pass those thresholds.
 - Synthesize sources; do not copy source prose. Separate what the novel states from interpretation, later-Sprawl continuity, adaptation information, and community theories.
 - Use more short, attributed excerpts from the novel across the core reading path when they add real interpretive value. Locate each by part/chapter, keep every fragment under 90 characters and 15 words, and never reproduce long or sequential passages.
 - Include purposeful imagery with visible credits and rights/source notes. Do not present adaptation art or fan art as book canon.

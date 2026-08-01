@@ -5,6 +5,7 @@ import { sourceByKey } from "@/content/sources";
 import { imageByKey } from "@/content/images";
 import { ArticleCard } from "./ArticleCard";
 import { SpoilerGate } from "./SpoilerGate";
+import { MicroLoreDiagram } from "./MicroLoreDiagram";
 
 function FullArticleBody({ article }: { article: WikiArticle }) {
   return (
@@ -18,6 +19,7 @@ function FullArticleBody({ article }: { article: WikiArticle }) {
           </figcaption>
         </figure>
       )}
+      <MicroLoreDiagram slug={article.slug} />
       <div className="article-main-grid">
         <div className="article-prose">
           {article.sections.map((section) => (
