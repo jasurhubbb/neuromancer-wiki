@@ -1,0 +1,30 @@
+{
+  "slug": "ono-sendai-cyberspace-seven",
+  "searchedOn": "2026-08-02",
+  "searchCount": 3,
+  "queries": [
+    "\"Ono-Sendai Cyberspace Seven\" Neuromancer",
+    "Neuromancer Ono-Sendai deck Case Sprawl loft",
+    "site:reddit.com/r/Neuromancer Ono-Sendai Cyberspace Seven deck"
+  ],
+  "consultedCount": 3,
+  "consulted": [
+    {
+      "title": "Ono-Sendai Cyberspace Seven",
+      "url": "https://neuromancer.fandom.com/wiki/Ono-Sendai_Cyberspace_Seven"
+    },
+    {
+      "title": "What is the difference between a Hosaka, Ono-Sendai, and a deck?",
+      "url": "https://scifi.stackexchange.com/questions/216142/what-is-the-difference-between-a-hosaka-ono-sendai-and-a-deck"
+    },
+    {
+      "title": "What are the Ono-Sendai supposed to look like?",
+      "url": "https://www.reddit.com/r/Neuromancer/comments/17wclx9/"
+    }
+  ],
+  "researchStandard": {
+    "minimumQueries": 3,
+    "minimumConsultedLinks": 3,
+    "met": true
+  }
+}

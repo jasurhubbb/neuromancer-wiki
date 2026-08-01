@@ -1,0 +1,30 @@
+{
+  "slug": "ram-hot-memory",
+  "searchedOn": "2026-08-02",
+  "searchCount": 3,
+  "queries": [
+    "\"Neuromancer\" \"three megabytes\" \"hot RAM\"",
+    "\"Neuromancer\" \"full RAM\" Linda Dixie ROM",
+    "Neuromancer RAM ROM hot Hitachi memory explained"
+  ],
+  "consultedCount": 3,
+  "consulted": [
+    {
+      "title": "RAM Analysis in Neuromancer",
+      "url": "https://www.litcharts.com/lit/neuromancer/terms/ram"
+    },
+    {
+      "title": "Hitachi Pocket Computer",
+      "url": "https://williamgibson.fandom.com/wiki/Hitachi_Pocket_Computer"
+    },
+    {
+      "title": "Three Megabytes of Hot RAM",
+      "url": "https://www.reddit.com/r/Neuromancer/comments/1de58mt/"
+    }
+  ],
+  "researchStandard": {
+    "minimumQueries": 3,
+    "minimumConsultedLinks": 3,
+    "met": true
+  }
+}

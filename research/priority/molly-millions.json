@@ -1,0 +1,452 @@
+{
+  "slug": "molly-millions",
+  "topic": "Molly Millions",
+  "priority": 3,
+  "generatedAt": "2026-08-01T15:31:26.993Z",
+  "searchCount": 10,
+  "candidateCount": 44,
+  "fetchedAttemptCount": 44,
+  "accessibleFetchCount": 24,
+  "requirementMet": true,
+  "searches": [
+    {
+      "query": "\"Neuromancer\" \"Molly Millions\" William Gibson",
+      "resultCount": 0,
+      "results": [],
+      "error": "Error: search status 429"
+    },
+    {
+      "query": "\"Molly Millions\" Neuromancer analysis",
+      "resultCount": 0,
+      "results": [],
+      "error": "Error: search status 429"
+    },
+    {
+      "query": "\"Molly Millions\" Neuromancer explained",
+      "resultCount": 0,
+      "results": [],
+      "error": "Error: search status 429"
+    },
+    {
+      "query": "\"Molly Millions\" Neuromancer criticism",
+      "resultCount": 0,
+      "results": [],
+      "error": "Error: search status 429"
+    },
+    {
+      "query": "\"Molly Millions\" Neuromancer scholarly",
+      "resultCount": 0,
+      "results": [],
+      "error": "Error: search status 429"
+    },
+    {
+      "query": "\"Molly Millions\" Gibson interview",
+      "resultCount": 0,
+      "results": [],
+      "error": "Error: search status 429"
+    },
+    {
+      "query": "\"Molly Millions\" cyberpunk context",
+      "resultCount": 0,
+      "results": [],
+      "error": "Error: search status 429"
+    },
+    {
+      "query": "\"Molly Millions\" Neuromancer symbolism",
+      "resultCount": 0,
+      "results": [],
+      "error": "Error: search status 429"
+    },
+    {
+      "query": "\"Molly Millions\" Neuromancer plot role",
+      "resultCount": 0,
+      "results": [],
+      "error": "Error: search status 429"
+    },
+    {
+      "query": "site:reddit.com \"Neuromancer\" \"Molly Millions\" discussion",
+      "resultCount": 0,
+      "results": [],
+      "error": "Error: search status 429"
+    }
+  ],
+  "sources": [
+    {
+      "searchTitle": "William Gibson — official site",
+      "url": "https://williamgibsonbooks.com/",
+      "resolvedUrl": "https://williamgibsonbooks.com/",
+      "ok": true,
+      "status": 200,
+      "contentType": "text/html;charset=utf-8",
+      "elapsedMs": 12457,
+      "title": "William Gibson",
+      "description": "William Gibson is the author of Neuromancer, Count Zero, Mona Lisa Overdrive, Burning Chrome, Virtual Light, Idoru, All Tomorrow’s Parties, Pattern Recognition, Spook Country, Zero History, Distrust That Particular Flavor, and The Peripheral.",
+      "canonicalUrl": "https://williamgibsonbooks.com/"
+    },
+    {
+      "searchTitle": "PRH Higher Education edition",
+      "url": "https://penguinrandomhousehighereducation.com/book/?isbn=9781101146460",
+      "resolvedUrl": "https://penguinrandomhousehighereducation.com/book/?isbn=9781101146460",
+      "ok": true,
+      "status": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "elapsedMs": 9077,
+      "title": "Neuromancer | Penguin Random House Higher Education",
+      "description": "Winner of the Hugo, Nebula, and Philip K. Dick Awards, Neuromancer is a science fiction masterpiece&mdash;a classic that ranks as one of the twentieth century&rsquo;s most potent visions of the future.",
+      "canonicalUrl": "https://www.penguinrandomhouse.com/books/293994/neuromancer-by-william-gibson/9781101146460"
+    },
+    {
+      "searchTitle": "Ace Books history",
+      "url": "https://www.penguin.com/ace-our-history/",
+      "resolvedUrl": "https://www.penguin.com/ace-our-history/",
+      "ok": true,
+      "status": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "elapsedMs": 25235,
+      "title": "Ace: Our History - Penguin Books",
+      "description": "Ace Books was founded in 1953 by A. A. Wyn and is the oldest continuously operating science fiction/fantasy publisher in the United States.",
+      "canonicalUrl": "https://www.penguin.com/ace-our-history/"
+    },
+    {
+      "searchTitle": "Open Library — Neuromancer",
+      "url": "https://openlibrary.org/works/OL27258W/Neuromancer",
+      "resolvedUrl": "https://openlibrary.org/works/OL27258W/Neuromancer",
+      "ok": true,
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "elapsedMs": 22101,
+      "title": "Neuromancer by William Gibson | Open Library",
+      "description": "Neuromancer by William Gibson, unknown edition,",
+      "canonicalUrl": "https://openlibrary.org/works/OL27258W/Neuromancer"
+    },
+    {
+      "searchTitle": "Encyclopedia of Science Fiction — William Gibson",
+      "url": "https://sf-encyclopedia.com/entry/gibson_william",
+      "resolvedUrl": "https://sf-encyclopedia.com/entry/gibson_william",
+      "ok": true,
+      "status": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "elapsedMs": 2808,
+      "title": "SFE: Gibson, William",
+      "description": "Welcome to the fourth edition of The Encyclopedia of Science Fiction.",
+      "canonicalUrl": "https://sf-encyclopedia.com/entry/gibson_william"
+    },
+    {
+      "searchTitle": "Encyclopedia of Science Fiction — Cyberpunk",
+      "url": "https://sf-encyclopedia.com/entry/cyberpunk",
+      "resolvedUrl": "https://sf-encyclopedia.com/entry/cyberpunk",
+      "ok": true,
+      "status": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "elapsedMs": 1452,
+      "title": "SFE: Cyberpunk",
+      "description": "Welcome to the fourth edition of The Encyclopedia of Science Fiction.",
+      "canonicalUrl": "https://sf-encyclopedia.com/entry/cyberpunk"
+    },
+    {
+      "searchTitle": "Encyclopedia of Science Fiction — Cyberspace",
+      "url": "https://sf-encyclopedia.com/entry/cyberspace",
+      "resolvedUrl": "https://sf-encyclopedia.com/entry/cyberspace",
+      "ok": true,
+      "status": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "elapsedMs": 1500,
+      "title": "SFE: Cyberspace",
+      "description": "Welcome to the fourth edition of The Encyclopedia of Science Fiction.",
+      "canonicalUrl": "https://sf-encyclopedia.com/entry/cyberspace"
+    },
+    {
+      "searchTitle": "EBSCO Research Starter",
+      "url": "https://www.ebsco.com/research-starters/literature-and-writing/neuromancer-william-gibson",
+      "resolvedUrl": "https://www.ebsco.com/research-starters/literature-and-writing/neuromancer-william-gibson",
+      "ok": true,
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "elapsedMs": 2778,
+      "title": "Neuromancer by William Gibson | Literature and Writing | Research Starters | EBSCO Research",
+      "description": "<p>\"Neuromancer\" is a seminal science fiction novel by William Gibson, published in 1984, that is widely recognized for shaping the cyberpunk genre. Set in the late twenty-first century, the narrative follows Henry Dorsett Case, a washed-up computer hacker who becomes embroiled in a high-stakes conspiracy involving artificial intelligences and a mercenary named Molly. The story unfolds across various global locations, including Chiba City, New York, and Istanbul, and culminates in space habitats. Gibson&#x27;s novel explores themes of technology, identity, and the human condition, particularly",
+      "canonicalUrl": "https://www.ebsco.com/research-starters/literature-and-writing/neuromancer-william-gibson"
+    },
+    {
+      "searchTitle": "WSU Neuromancer study guide",
+      "url": "https://public.archive.wsu.edu/brians/public_html/science_fiction/neuromancer.html",
+      "resolvedUrl": "https://public.archive.wsu.edu/brians/public_html/science_fiction/neuromancer.html",
+      "ok": true,
+      "status": 200,
+      "contentType": "text/html",
+      "elapsedMs": 19414,
+      "title": "Study Guide for William Gibson: Neuromancer (1984)",
+      "description": "",
+      "canonicalUrl": "https://public.archive.wsu.edu/brians/public_html/science_fiction/neuromancer.html"
+    },
+    {
+      "searchTitle": "George Mason University notes",
+      "url": "https://mason.gmu.edu/~dtaciuch/neuronotes/",
+      "resolvedUrl": "https://mason.gmu.edu/~dtaciuch/neuronotes/",
+      "ok": true,
+      "status": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "elapsedMs": 1705,
+      "title": "Teaching Notes: Neuromancer",
+      "description": "",
+      "canonicalUrl": "https://mason.gmu.edu/~dtaciuch/neuronotes/"
+    },
+    {
+      "searchTitle": "SFWA Nebula record",
+      "url": "https://nebulas.sfwa.org/nominated-work/neuromancer/",
+      "resolvedUrl": "https://nebulas.sfwa.org/nominated-work/neuromancer/",
+      "ok": true,
+      "status": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "elapsedMs": 19448,
+      "title": "Neuromancer - The Nebula Awards®",
+      "description": "Twenty years ago, it was as if someone turned on a light. The future blazed into existence with each deliberate word that William Gibson laid down. The winner of Hugo, Nebula, and Philip K. Dick Awards, Neuromancer didn&#8217;t just explode onto the science fiction scene—it permeated into the collective consciousness, culture, science, and technology. Today, [&hellip;]",
+      "canonicalUrl": "https://nebulas.sfwa.org/nominated-work/neuromancer/"
+    },
+    {
+      "searchTitle": "SFWA William Gibson record",
+      "url": "https://nebulas.sfwa.org/nominees/william-gibson/",
+      "resolvedUrl": "https://nebulas.sfwa.org/nominees/william-gibson/",
+      "ok": true,
+      "status": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "elapsedMs": 6602,
+      "title": "William Gibson - The Nebula Awards®",
+      "description": "",
+      "canonicalUrl": "https://nebulas.sfwa.org/nominees/william-gibson/"
+    },
+    {
+      "searchTitle": "Hugo Awards 1985 record",
+      "url": "https://www.thehugoawards.org/hugo-history/1995-hugo-awards-2/",
+      "resolvedUrl": "https://www.thehugoawards.org/hugo-history/1995-hugo-awards-2/",
+      "ok": true,
+      "status": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "elapsedMs": 7241,
+      "title": "1985 Hugo Awards | The Hugo Award",
+      "description": "Presented at: Aussiecon Two, Melbourne, Australia, August 22-26, 1985 Toastmaster: Marc Ortleib Base design: Awards Administration: Best Novel Neuromancer by William Gibson [Ace, 1984] Emergence by…",
+      "canonicalUrl": "https://www.thehugoawards.org/hugo-history/1995-hugo-awards-2/"
+    },
+    {
+      "searchTitle": "Guardian — How I wrote Neuromancer",
+      "url": "https://www.theguardian.com/books/2014/nov/26/william-gibson-neuromancer-book-club",
+      "resolvedUrl": "https://www.theguardian.com/books/2014/nov/26/william-gibson-neuromancer-book-club",
+      "ok": true,
+      "status": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "elapsedMs": 4533,
+      "title": "William Gibson: how I wrote Neuromancer | William Gibson | The Guardian",
+      "description": "&#x3C;strong&#x3E;William Gibson&#x3C;/strong&#x3E; &#x2018;had so very little idea of how to write a novel&#x2019; when he was commissioned to come up with a manuscript",
+      "canonicalUrl": "https://www.theguardian.com/books/2014/nov/26/william-gibson-neuromancer-book-club"
+    },
+    {
+      "searchTitle": "Guardian — 30 years on",
+      "url": "https://www.theguardian.com/books/2014/nov/07/neuromancer-william-gibson-review-cyberpunk-classic-30-years-on",
+      "resolvedUrl": "https://www.theguardian.com/books/2014/nov/07/neuromancer-william-gibson-review-cyberpunk-classic-30-years-on",
+      "ok": true,
+      "status": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "elapsedMs": 3802,
+      "title": "John Mullan on William Gibson’s Neuromancer – Guardian book club | William Gibson | The Guardian",
+      "description": "A new vocabulary for a transformed reality: the deeply influential cyberpunk classic, 30 years on from its original publication. By &#x3C;strong&#x3E;John Mullan&#x3C;/strong&#x3E;",
+      "canonicalUrl": "https://www.theguardian.com/books/2014/nov/07/neuromancer-william-gibson-review-cyberpunk-classic-30-years-on"
+    },
+    {
+      "searchTitle": "Guardian online interview",
+      "url": "https://www.theguardian.com/books/2000/mar/24/sciencefictionfantasyandhorror.williamgibson",
+      "resolvedUrl": "https://www.theguardian.com/books/2000/mar/24/sciencefictionfantasyandhorror.williamgibson",
+      "ok": true,
+      "status": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "elapsedMs": 3485,
+      "title": "William Gibson online: the transcript | Books | The Guardian",
+      "description": "&#x3C;p&#x3E;&#x3C;strong&#x3E;jj1:&#x3C;/strong&#x3E; Do you think the internet will be entirely consumed by dot com commercialism, or will there still be a place for information sharing and community? &#x3C;br /&#x3E; &#x3C;strong&#x3E;William Gibson:&#x3C;/strong&#x3E; Always room for interstitial activity.&#x3C;/p&#x3E;",
+      "canonicalUrl": "https://www.theguardian.com/books/2000/mar/24/sciencefictionfantasyandhorror.williamgibson"
+    },
+    {
+      "searchTitle": "WIRED Gibson interview",
+      "url": "https://www.wired.com/2012/09/interview-with-william-gibson/",
+      "resolvedUrl": "https://www.wired.com/2012/09/interview-with-william-gibson/",
+      "ok": true,
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "elapsedMs": 10859,
+      "title": "William Gibson on Why Sci-Fi Writers Are (Thankfully) Almost Always Wrong | WIRED",
+      "description": "William Gibson, one of science fiction’s most visionary and distinctive voices, maintains that he and his fellow writers don’t possess some mystical ability to peer into the future. “We’re almost always wrong,” said Gibson in a phone interview with Wired. Gibson coined the term cyberspace in his 1982 short story “Burning Chrome” and expanded on \\[…\\]",
+      "canonicalUrl": "https://www.wired.com/2012/09/interview-with-william-gibson/"
+    },
+    {
+      "searchTitle": "TIME Gibson interview",
+      "url": "https://time.com/5770124/author-william-gibson-new-book-interview/",
+      "resolvedUrl": "https://time.com/5770124/author-william-gibson-new-book-interview/",
+      "ok": true,
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "elapsedMs": 18878,
+      "title": "Untitled source",
+      "description": "Sci-fi novelist William Gibson talks to TIME about his new book, the invention of the term cyberspace and how AI could be truly intelligent.",
+      "canonicalUrl": "https://time.com/5770124/author-william-gibson-new-book-interview/"
+    },
+    {
+      "searchTitle": "Scientific American interview",
+      "url": "https://www.scientificamerican.com/article/gibson-interview-cities-in-fact-and-fiction/",
+      "resolvedUrl": "https://www.scientificamerican.com/article/gibson-interview-cities-in-fact-and-fiction/",
+      "ok": true,
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "elapsedMs": 10320,
+      "title": "Cities in Fact and Fiction: An Interview with William Gibson | Scientific American",
+      "description": "Author of the cyberpunk novel Neuromancer, William Gibson talks about the relationship between his fiction and the contemporary urban landscape",
+      "canonicalUrl": "https://www.scientificamerican.com/article/gibson-interview-cities-in-fact-and-fiction/"
+    },
+    {
+      "searchTitle": "New Yorker profile",
+      "url": "https://www.newyorker.com/magazine/2019/12/16/how-william-gibson-keeps-his-science-fiction-real",
+      "resolvedUrl": "https://www.newyorker.com/magazine/2019/12/16/how-william-gibson-keeps-his-science-fiction-real",
+      "ok": true,
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "elapsedMs": 5906,
+      "title": "How William Gibson Keeps His Science Fiction Real | The New Yorker",
+      "description": "Midway through his career, the inventor of “cyberspace” turned his attention to the strange new world of the present, Joshua Rothman writes.",
+      "canonicalUrl": "https://www.newyorker.com/magazine/2019/12/16/how-william-gibson-keeps-his-science-fiction-real"
+    },
+    {
+      "searchTitle": "Guardian 2020 profile",
+      "url": "https://www.theguardian.com/books/2020/jan/11/william-gibson-i-was-losing-a-sense-of-how-weird-the-real-world-was",
+      "resolvedUrl": "https://www.theguardian.com/books/2020/jan/11/william-gibson-i-was-losing-a-sense-of-how-weird-the-real-world-was",
+      "ok": true,
+      "status": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "elapsedMs": 4057,
+      "title": "William Gibson: ‘I was losing a sense of how weird the real world was' | William Gibson | The Guardian",
+      "description": "The writer who invented &#x2018;cyberspace&#x2019; &#x2013; and possibly the most influential living sci-fi author &#x2013; on the challenges of keeping up with a reality even stranger than fiction",
+      "canonicalUrl": "https://www.theguardian.com/books/2020/jan/11/william-gibson-i-was-losing-a-sense-of-how-weird-the-real-world-was"
+    },
+    {
+      "searchTitle": "Kirkus retrospective",
+      "url": "https://www.kirkusreviews.com/news-and-features/articles/30-years-william-gibsons-ineuromanceri/",
+      "resolvedUrl": "https://www.kirkusreviews.com/news-and-features/articles/30-years-william-gibsons-ineuromanceri/",
+      "ok": true,
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "elapsedMs": 4115,
+      "title": "30 Years of William Gibson&#x27;s Neuromancer | Kirkus Reviews",
+      "description": "For the book",
+      "canonicalUrl": "https://www.kirkusreviews.com/news-and-features/articles/30-years-william-gibsons-ineuromanceri/"
+    },
+    {
+      "searchTitle": "Wikipedia — Neuromancer",
+      "url": "https://en.wikipedia.org/wiki/Neuromancer",
+      "resolvedUrl": "https://en.wikipedia.org/wiki/Neuromancer",
+      "ok": true,
+      "status": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "elapsedMs": 6687,
+      "title": "Neuromancer - Wikipedia",
+      "description": "",
+      "canonicalUrl": "https://en.wikipedia.org/wiki/Neuromancer"
+    },
+    {
+      "searchTitle": "LitCharts character index",
+      "url": "https://www.litcharts.com/lit/neuromancer/characters",
+      "resolvedUrl": "https://www.litcharts.com/lit/neuromancer/characters",
+      "ok": true,
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "elapsedMs": 7286,
+      "title": "Neuromancer Character Analysis | LitCharts",
+      "description": "Neuromancer Character Analysis | LitCharts",
+      "canonicalUrl": "https://www.litcharts.com/lit/neuromancer/characters"
+    }
+  ],
+  "failedFetches": [
+    {
+      "searchTitle": "Penguin Random House — Neuromancer",
+      "url": "https://www.penguinrandomhouse.com/books/293994/neuromancer-by-william-gibson/",
+      "ok": false,
+      "error": "TypeError: fetch failed",
+      "elapsedMs": 10173
+    },
+    {
+      "searchTitle": "ISFDB first-edition record",
+      "url": "https://www.isfdb.org/cgi-bin/pl.cgi?23643=",
+      "ok": false,
+      "status": 403,
+      "contentType": "text/html; charset=UTF-8",
+      "elapsedMs": 5183
+    },
+    {
+      "searchTitle": "Paris Review interview",
+      "url": "https://www.theparisreview.org/interviews/6089/the-art-of-fiction-no-211-william-gibson",
+      "ok": false,
+      "status": 403,
+      "contentType": "text/html; charset=UTF-8",
+      "elapsedMs": 786
+    },
+    {
+      "searchTitle": "William Gibson Wiki — Neuromancer",
+      "url": "https://williamgibson.fandom.com/wiki/Neuromancer",
+      "ok": false,
+      "status": 403,
+      "contentType": "text/html; charset=UTF-8",
+      "elapsedMs": 3038
+    },
+    {
+      "searchTitle": "eNotes character index",
+      "url": "https://www.enotes.com/topics/neuromancer/characters",
+      "ok": false,
+      "status": 403,
+      "contentType": "text/html; charset=UTF-8",
+      "elapsedMs": 1018
+    },
+    {
+      "searchTitle": "Merriam-Webster — cyberspace",
+      "url": "https://www.merriam-webster.com/dictionary/cyberspace",
+      "ok": false,
+      "status": 403,
+      "contentType": "text/html; charset=UTF-8",
+      "elapsedMs": 730
+    },
+    {
+      "searchTitle": "Internet Society history",
+      "url": "https://www.internetsociety.org/internet/history-internet/brief-history-internet/",
+      "ok": false,
+      "status": 403,
+      "contentType": "text/html; charset=UTF-8",
+      "elapsedMs": 1539
+    },
+    {
+      "searchTitle": "MobyGames adaptation record",
+      "url": "https://www.mobygames.com/game/687/neuromancer/",
+      "ok": false,
+      "status": 403,
+      "contentType": "text/html; charset=UTF-8",
+      "elapsedMs": 5113
+    },
+    {
+      "searchTitle": "Grand Comics Database",
+      "url": "https://www.comics.org/issue/400174/",
+      "ok": false,
+      "status": 403,
+      "contentType": "text/html; charset=UTF-8",
+      "elapsedMs": 1847
+    },
+    {
+      "searchTitle": "Oxford AI and cyberpunk networks",
+      "url": "https://academic.oup.com/book/36637/chapter/321633079",
+      "ok": false,
+      "status": 403,
+      "contentType": "text/html; charset=UTF-8",
+      "elapsedMs": 2292
+    },
+    {
+      "searchTitle": "SFS — Stealing Kinship",
+      "url": "https://doi.org/10.5621/sciefictstud.41.1.0069",
+      "ok": false,
+      "status": 403,
+      "contentType": "text/html; charset=UTF-8",
+      "elapsedMs": 1778
+    }
+  ]
+}

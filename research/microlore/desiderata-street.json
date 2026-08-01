@@ -1,0 +1,35 @@
+{
+  "slug": "desiderata-street",
+  "searchedOn": "2026-08-02",
+  "searchCount": 4,
+  "queries": [
+    "Neuromancer \"Desiderata Street\" Freeside",
+    "Neuromancer Desiderata Street Emergency Turing agents",
+    "Neuromancer Desiderata Street Lado-Acheson cafe",
+    "Neuromancer \"Remembered Desiderata Street\""
+  ],
+  "consultedCount": 4,
+  "consulted": [
+    {
+      "title": "What street runs the length of Freeside?",
+      "url": "https://www.bookrags.com/questions/english-and-literature/Neuromancer/what-street-runs-the-length-of-freeside--223588"
+    },
+    {
+      "title": "Rue Jules Verne",
+      "url": "https://williamgibson.fandom.com/wiki/Rue_Jules_Verne"
+    },
+    {
+      "title": "Emergency",
+      "url": "https://williamgibson.fandom.com/wiki/Emergency"
+    },
+    {
+      "title": "Neuromancer Part 3, Chapters 8-12 Summary & Analysis",
+      "url": "https://www.supersummary.com/neuromancer/part-3-chapters-8-12-summary/"
+    }
+  ],
+  "researchStandard": {
+    "minimumQueries": 3,
+    "minimumConsultedLinks": 3,
+    "met": true
+  }
+}

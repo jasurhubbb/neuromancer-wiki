@@ -1,0 +1,30 @@
+{
+  "slug": "cobra-weapon-not-drug",
+  "searchedOn": "2026-08-02",
+  "searchCount": 3,
+  "queries": [
+    "\"Cobra\" \"Neuromancer\" drug weapon",
+    "Neuromancer Cobra term telescoping baton",
+    "site:reddit.com/r/Neuromancer Cobra drug Neuromancer"
+  ],
+  "consultedCount": 3,
+  "consulted": [
+    {
+      "title": "Cobra Analysis in Neuromancer",
+      "url": "https://www.litcharts.com/lit/neuromancer/terms/cobra"
+    },
+    {
+      "title": "Neuromancer Terms and Definitions",
+      "url": "https://www.reddit.com/r/Neuromancer/comments/pn7l5w/neuromancer_terms_and_definitions/"
+    },
+    {
+      "title": "I cannot enjoy this book if I don't know what the author is talking about",
+      "url": "https://www.reddit.com/r/Neuromancer/comments/14ys0qt/"
+    }
+  ],
+  "researchStandard": {
+    "minimumQueries": 3,
+    "minimumConsultedLinks": 3,
+    "met": true
+  }
+}

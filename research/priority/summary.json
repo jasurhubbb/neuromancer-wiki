@@ -1,0 +1,149 @@
+{
+  "generatedAt": "2026-08-01T15:46:43.888Z",
+  "priorityArticleCount": 20,
+  "totalSearches": 200,
+  "totalAccessibleFetches": 480,
+  "allRequirementsMet": true,
+  "articles": [
+    {
+      "slug": "neuromancer-novel",
+      "topic": "Neuromancer novel",
+      "searchCount": 10,
+      "accessibleFetchCount": 24,
+      "requirementMet": true
+    },
+    {
+      "slug": "case",
+      "topic": "Case Henry Dorsett Case",
+      "searchCount": 10,
+      "accessibleFetchCount": 24,
+      "requirementMet": true
+    },
+    {
+      "slug": "molly-millions",
+      "topic": "Molly Millions",
+      "searchCount": 10,
+      "accessibleFetchCount": 24,
+      "requirementMet": true
+    },
+    {
+      "slug": "armitage-corto",
+      "topic": "Armitage Colonel Willis Corto",
+      "searchCount": 10,
+      "accessibleFetchCount": 24,
+      "requirementMet": true
+    },
+    {
+      "slug": "wintermute",
+      "topic": "Wintermute artificial intelligence",
+      "searchCount": 10,
+      "accessibleFetchCount": 24,
+      "requirementMet": true
+    },
+    {
+      "slug": "neuromancer-ai",
+      "topic": "Neuromancer artificial intelligence character",
+      "searchCount": 10,
+      "accessibleFetchCount": 24,
+      "requirementMet": true
+    },
+    {
+      "slug": "dixie-flatline",
+      "topic": "McCoy Pauley Dixie Flatline",
+      "searchCount": 10,
+      "accessibleFetchCount": 24,
+      "requirementMet": true
+    },
+    {
+      "slug": "peter-riviera",
+      "topic": "Peter Riviera",
+      "searchCount": 10,
+      "accessibleFetchCount": 24,
+      "requirementMet": true
+    },
+    {
+      "slug": "lady-3jane",
+      "topic": "Lady 3Jane Tessier-Ashpool",
+      "searchCount": 10,
+      "accessibleFetchCount": 24,
+      "requirementMet": true
+    },
+    {
+      "slug": "linda-lee",
+      "topic": "Linda Lee",
+      "searchCount": 10,
+      "accessibleFetchCount": 24,
+      "requirementMet": true
+    },
+    {
+      "slug": "chiba-city",
+      "topic": "Chiba City Night City",
+      "searchCount": 10,
+      "accessibleFetchCount": 24,
+      "requirementMet": true
+    },
+    {
+      "slug": "the-sprawl",
+      "topic": "The Sprawl BAMA",
+      "searchCount": 10,
+      "accessibleFetchCount": 24,
+      "requirementMet": true
+    },
+    {
+      "slug": "freeside",
+      "topic": "Freeside space habitat",
+      "searchCount": 10,
+      "accessibleFetchCount": 24,
+      "requirementMet": true
+    },
+    {
+      "slug": "villa-straylight",
+      "topic": "Villa Straylight",
+      "searchCount": 10,
+      "accessibleFetchCount": 24,
+      "requirementMet": true
+    },
+    {
+      "slug": "cyberspace-matrix",
+      "topic": "cyberspace matrix",
+      "searchCount": 10,
+      "accessibleFetchCount": 24,
+      "requirementMet": true
+    },
+    {
+      "slug": "artificial-intelligence",
+      "topic": "artificial intelligence in Neuromancer",
+      "searchCount": 10,
+      "accessibleFetchCount": 24,
+      "requirementMet": true
+    },
+    {
+      "slug": "tessier-ashpool",
+      "topic": "Tessier-Ashpool SA",
+      "searchCount": 10,
+      "accessibleFetchCount": 24,
+      "requirementMet": true
+    },
+    {
+      "slug": "operation-screaming-fist",
+      "topic": "Operation Screaming Fist",
+      "searchCount": 10,
+      "accessibleFetchCount": 24,
+      "requirementMet": true
+    },
+    {
+      "slug": "body-modification",
+      "topic": "body modification razorgirl mirrored eyes",
+      "searchCount": 10,
+      "accessibleFetchCount": 24,
+      "requirementMet": true
+    },
+    {
+      "slug": "straylight-run",
+      "topic": "Straylight run final heist",
+      "searchCount": 10,
+      "accessibleFetchCount": 24,
+      "requirementMet": true
+    }
+  ]
+}

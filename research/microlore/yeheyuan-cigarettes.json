@@ -1,0 +1,30 @@
+{
+  "slug": "yeheyuan-cigarettes",
+  "searchedOn": "2026-08-02",
+  "searchCount": 3,
+  "queries": [
+    "\"Yeheyuan\" cigarettes Neuromancer",
+    "Neuromancer Case Yeheyuan filters cigarettes scenes",
+    "site:reddit.com Neuromancer Yeheyuan cigarettes Case"
+  ],
+  "consultedCount": 3,
+  "consulted": [
+    {
+      "title": "Neuromancer Analysis",
+      "url": "https://www.enotes.com/topics/neuromancer/in-depth"
+    },
+    {
+      "title": "And what about tobacco?",
+      "url": "https://www.reddit.com/r/Neuromancer/comments/1v8s8xl/"
+    },
+    {
+      "title": "Significance of Yeheyuan",
+      "url": "https://www.bookrags.com/questions/english-and-literature/Neuromancer/significance-of-yeheyuan--223582"
+    }
+  ],
+  "researchStandard": {
+    "minimumQueries": 3,
+    "minimumConsultedLinks": 3,
+    "met": true
+  }
+}

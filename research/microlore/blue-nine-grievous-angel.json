@@ -1,0 +1,30 @@
+{
+  "slug": "blue-nine-grievous-angel",
+  "searchedOn": "2026-08-02",
+  "searchCount": 3,
+  "queries": [
+    "\"Blue Nine\" \"Neuromancer\" drug",
+    "Neuromancer Blue Nine Grievous Angel Sense Net",
+    "site:reddit.com/r/Neuromancer \"Blue Nine\""
+  ],
+  "consultedCount": 3,
+  "consulted": [
+    {
+      "title": "Blue Nine Analysis in Neuromancer",
+      "url": "https://www.litcharts.com/lit/neuromancer/terms/blue-nine"
+    },
+    {
+      "title": "Blue Nine",
+      "url": "https://williamgibson.fandom.com/wiki/Blue_Nine"
+    },
+    {
+      "title": "Neuromancer Part 2: The Shopping Expedition",
+      "url": "https://mason.gmu.edu/~dtaciuch/neuronotes/part2.html"
+    }
+  ],
+  "researchStandard": {
+    "minimumQueries": 3,
+    "minimumConsultedLinks": 3,
+    "met": true
+  }
+}

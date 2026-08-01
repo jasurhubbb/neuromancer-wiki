@@ -1,0 +1,30 @@
+{
+  "slug": "dex-dextroamphetamine-octagons",
+  "searchedOn": "2026-08-02",
+  "searchCount": 3,
+  "queries": [
+    "\"Neuromancer\" dex dextroamphetamine octagon",
+    "Neuromancer Case dex octagons drug Chapter 1",
+    "site:reddit.com/r/Neuromancer dex octagon dextroamphetamine"
+  ],
+  "consultedCount": 3,
+  "consulted": [
+    {
+      "title": "Study Guide for William Gibson: Neuromancer",
+      "url": "https://public.archive.wsu.edu/brians/public_html/science_fiction/neuromancer.html"
+    },
+    {
+      "title": "11270 — Neuromancer annotations",
+      "url": "https://nickuhlig.github.io/11270"
+    },
+    {
+      "title": "Postmodern Orientalism: William Gibson, Cyberpunk and Japan",
+      "url": "https://mro.massey.ac.nz/server/api/core/bitstreams/c2ff1dd0-b378-472a-8c80-7c2f453f76fe/content"
+    }
+  ],
+  "researchStandard": {
+    "minimumQueries": 3,
+    "minimumConsultedLinks": 3,
+    "met": true
+  }
+}

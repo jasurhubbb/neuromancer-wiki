@@ -1,0 +1,34 @@
+{
+  "slug": "jarre-de-the",
+  "searchedOn": "2026-08-02",
+  "searchCount": 3,
+  "queries": [
+    "Neuromancer \"Jarre de Thé\" Chiba",
+    "Neuromancer Jarre de The Case Linda tea",
+    "Neuromancer \"Jarre de Thé\" meaning location"
+  ],
+  "consultedCount": 4,
+  "consulted": [
+    {
+      "title": "Jarre de Thé",
+      "url": "https://williamgibson.fandom.com/wiki/Jarre_de_Th%C3%A9"
+    },
+    {
+      "title": "Japanese Words in Neuromancer discussion",
+      "url": "https://news.ycombinator.com/item?id=31282035"
+    },
+    {
+      "title": "Literatura e Arquitetura: Neuromancer",
+      "url": "https://www.archdaily.com.br/br/881925/literatura-e-arquitetura-neuromancer-lembrancas-de-um-futuro-presente"
+    },
+    {
+      "title": "Neuromancer Chapter 1 Summary & Analysis",
+      "url": "https://www.litcharts.com/lit/neuromancer/chapter-1"
+    }
+  ],
+  "researchStandard": {
+    "minimumQueries": 3,
+    "minimumConsultedLinks": 3,
+    "met": true
+  }
+}

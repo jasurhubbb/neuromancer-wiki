@@ -1,0 +1,30 @@
+{
+  "slug": "mimetic-polycarbon-suit",
+  "searchedOn": "2026-08-02",
+  "searchCount": 3,
+  "queries": [
+    "\"mimetic polycarbon\" \"Neuromancer\" suit",
+    "Neuromancer Molly mimetic polycarbon suit Sense Net",
+    "site:reddit.com/r/Neuromancer mimetic polycarbon suit Panther Moderns"
+  ],
+  "consultedCount": 3,
+  "consulted": [
+    {
+      "title": "mimetic polycarbon",
+      "url": "https://everything2.com/node/1117034"
+    },
+    {
+      "title": "Question about the Sense/Net raid",
+      "url": "https://www.reddit.com/r/Neuromancer/comments/1rl4y6e/"
+    },
+    {
+      "title": "Sense/Net Analysis in Neuromancer",
+      "url": "https://www.litcharts.com/lit/neuromancer/terms/sense-net"
+    }
+  ],
+  "researchStandard": {
+    "minimumQueries": 3,
+    "minimumConsultedLinks": 3,
+    "met": true
+  }
+}

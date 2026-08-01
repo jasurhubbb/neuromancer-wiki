@@ -1,0 +1,30 @@
+{
+  "slug": "hideo-bamboo-bow",
+  "searchedOn": "2026-08-02",
+  "searchCount": 3,
+  "queries": [
+    "Neuromancer Hideo bow arrows blinded Riviera",
+    "\"Hideo\" bow \"Neuromancer\"",
+    "site:reddit.com/r/Neuromancer Hideo bow"
+  ],
+  "consultedCount": 3,
+  "consulted": [
+    {
+      "title": "Neuromancer Chapter 22 Summary and Analysis",
+      "url": "https://www.litcharts.com/lit/neuromancer/chapter-22"
+    },
+    {
+      "title": "Hideo — The Sprawl Character",
+      "url": "https://openfiction.org/universes/tZZrpUHBg9A0gOKZifDk0/the-sprawl/series/TL7O3wDMOqxFJ6e7Kfwvl/sprawl-trilogy/books/PM4H49UkyQHyYG0-EGTVn/neuromancer/characters/g5w3kqb1vn38aa3x3oczqzx8/hideo"
+    },
+    {
+      "title": "Neuromancer Part 4: The Straylight Run",
+      "url": "https://mason.gmu.edu/~dtaciuch/neuronotes/part4.html"
+    }
+  ],
+  "researchStandard": {
+    "minimumQueries": 3,
+    "minimumConsultedLinks": 3,
+    "met": true
+  }
+}

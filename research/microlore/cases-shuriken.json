@@ -1,0 +1,34 @@
+{
+  "slug": "cases-shuriken",
+  "searchedOn": "2026-08-02",
+  "searchCount": 3,
+  "queries": [
+    "Neuromancer \"Case's shuriken\" symbol",
+    "Neuromancer shuriken Molly gift ending symbol",
+    "Neuromancer shuriken never used Molly gift Case interpretation"
+  ],
+  "consultedCount": 4,
+  "consulted": [
+    {
+      "title": "Shuriken Symbol in Neuromancer",
+      "url": "https://www.litcharts.com/lit/neuromancer/symbols/shuriken"
+    },
+    {
+      "title": "Neuromancer Symbols",
+      "url": "https://www.coursehero.com/lit/Neuromancer/symbols/"
+    },
+    {
+      "title": "The Case for Gibson",
+      "url": "https://medium.com/cyberpunk-culture/the-case-for-gibson-dd0cfae35d05"
+    },
+    {
+      "title": "Study Guide for William Gibson: Neuromancer",
+      "url": "https://public.archive.wsu.edu/brians/public_html/science_fiction/neuromancer.html"
+    }
+  ],
+  "researchStandard": {
+    "minimumQueries": 3,
+    "minimumConsultedLinks": 3,
+    "met": true
+  }
+}

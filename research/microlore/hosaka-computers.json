@@ -1,0 +1,30 @@
+{
+  "slug": "hosaka-computers",
+  "searchedOn": "2026-08-02",
+  "searchCount": 3,
+  "queries": [
+    "\"Hosaka\" computer \"Neuromancer\"",
+    "Neuromancer Hosaka computer company terminal",
+    "site:scifi.stackexchange.com Neuromancer Hosaka Ono-Sendai deck"
+  ],
+  "consultedCount": 3,
+  "consulted": [
+    {
+      "title": "Hosaka Analysis in Neuromancer",
+      "url": "https://www.litcharts.com/lit/neuromancer/terms/hosaka"
+    },
+    {
+      "title": "What is the difference between a Hosaka, Ono-Sendai, and a deck?",
+      "url": "https://scifi.stackexchange.com/questions/216142/what-is-the-difference-between-a-hosaka-ono-sendai-and-a-deck"
+    },
+    {
+      "title": "Study Guide for William Gibson: Neuromancer",
+      "url": "https://public.archive.wsu.edu/brians/public_html/science_fiction/neuromancer.html"
+    }
+  ],
+  "researchStandard": {
+    "minimumQueries": 3,
+    "minimumConsultedLinks": 3,
+    "met": true
+  }
+}

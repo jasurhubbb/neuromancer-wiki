@@ -1,0 +1,30 @@
+{
+  "slug": "case-hitachi-pocket-computer",
+  "searchedOn": "2026-08-02",
+  "searchCount": 3,
+  "queries": [
+    "\"Neuromancer\" \"Hitachi terminal\" Case Linda",
+    "Neuromancer Case Hitachi pocket computer Linda theft",
+    "site:reddit.com/r/Neuromancer Hitachi computer Case RAM"
+  ],
+  "consultedCount": 3,
+  "consulted": [
+    {
+      "title": "Hitachi Pocket Computer",
+      "url": "https://williamgibson.fandom.com/wiki/Hitachi_Pocket_Computer"
+    },
+    {
+      "title": "Hitachi Analysis in Neuromancer",
+      "url": "https://www.litcharts.com/lit/neuromancer/terms/hitachi"
+    },
+    {
+      "title": "Question about the Hitachi RAM in Chapter 1",
+      "url": "https://www.reddit.com/r/Neuromancer/comments/106zvny/"
+    }
+  ],
+  "researchStandard": {
+    "minimumQueries": 3,
+    "minimumConsultedLinks": 3,
+    "met": true
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "freeside-microlight-attack",
+  "searchedOn": "2026-08-02",
+  "searchCount": 5,
+  "queries": [
+    "Neuromancer Freeside microlight Wintermute Turing agents",
+    "\"microlight\" \"Neuromancer\" Freeside",
+    "site:reddit.com/r/Neuromancer microlight Turing agents Freeside",
+    "\"Pierre\" microlight Michele Roland Neuromancer",
+    "\"microlight\" \"Pierre\" \"Neuromancer\""
+  ],
+  "consultedCount": 3,
+  "consulted": [
+    {
+      "title": "Neuromancer Chapter 13 Summary and Analysis",
+      "url": "https://www.litcharts.com/lit/neuromancer/chapter-13"
+    },
+    {
+      "title": "Neuromancer Chapter Index",
+      "url": "https://openfiction.org/books/PM4H49UkyQHyYG0-EGTVn/neuromancer/chapters"
+    },
+    {
+      "title": "Neuromancer Book Summary",
+      "url": "https://rhulha.github.io/book-summaries/books/neuromancer/"
+    }
+  ],
+  "researchStandard": {
+    "minimumQueries": 3,
+    "minimumConsultedLinks": 3,
+    "met": true
+  }
+}

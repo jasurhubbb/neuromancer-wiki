@@ -1,0 +1,34 @@
+{
+  "slug": "vingtieme-siecle",
+  "searchedOn": "2026-08-02",
+  "searchCount": 3,
+  "queries": [
+    "Neuromancer \"Vingtième Siècle\" Riviera restaurant",
+    "Neuromancer \"Vingtieme Siecle\" \"floating restaurant\"",
+    "Neuromancer Vingtième Siècle meaning Tintin restaurant"
+  ],
+  "consultedCount": 4,
+  "consulted": [
+    {
+      "title": "Neuromancer Part 3 Chapter 11 Summary",
+      "url": "https://www.coursehero.com/lit/Neuromancer/part-3-chapter-11-summary/"
+    },
+    {
+      "title": "Neuromancer Part 3, Chapters 8-12 Summary & Analysis",
+      "url": "https://www.supersummary.com/neuromancer/part-3-chapters-8-12-summary/"
+    },
+    {
+      "title": "Vingtième Siècle",
+      "url": "https://williamgibson.fandom.com/wiki/Vingti%C3%A8me_Si%C3%A8cle"
+    },
+    {
+      "title": "Rue Jules Verne or the restaurant?",
+      "url": "https://www.reddit.com/r/Neuromancer/comments/ep8e0x"
+    }
+  ],
+  "researchStandard": {
+    "minimumQueries": 3,
+    "minimumConsultedLinks": 3,
+    "met": true
+  }
+}

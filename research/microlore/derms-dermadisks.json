@@ -1,0 +1,30 @@
+{
+  "slug": "derms-dermadisks",
+  "searchedOn": "2026-08-02",
+  "searchCount": 3,
+  "queries": [
+    "Neuromancer derm dermadisk transdermal patch",
+    "\"derm\" \"Neuromancer\" drug patch Case",
+    "site:williamgibson.fandom.com Neuromancer dermadisk"
+  ],
+  "consultedCount": 3,
+  "consulted": [
+    {
+      "title": "Derm Analysis in Neuromancer",
+      "url": "https://www.litcharts.com/lit/neuromancer/terms/derm"
+    },
+    {
+      "title": "Dermadisk",
+      "url": "https://williamgibson.fandom.com/wiki/Dermadisk"
+    },
+    {
+      "title": "Transdermal patch",
+      "url": "https://en.wikipedia.org/wiki/Transdermal_patch"
+    }
+  ],
+  "researchStandard": {
+    "minimumQueries": 3,
+    "minimumConsultedLinks": 3,
+    "met": true
+  }
+}
