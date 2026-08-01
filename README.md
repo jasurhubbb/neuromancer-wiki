@@ -1,7 +1,7 @@
 # Neuromancer Atlas
 
 An independent, spoiler-aware reader’s wiki for William Gibson’s *Neuromancer*.
-The site contains 176 interconnected articles and more than 92,000 words of
+The site contains 177 interconnected articles and more than 93,000 words of
 article prose covering characters, locations, organizations, technology,
 themes, every chapter, publication history, cultural influence, and the small
 objects and phrases that often stop a first-time reader.
@@ -10,12 +10,12 @@ objects and phrases that often stop a first-time reader.
 
 - Every article contains at least 450 words of article-specific prose.
 - The 20 priority dossiers contain at least 650 words each.
-- A 24-page first-reader glossary gives RAM, the Chiba Hilton, joeboys, New Yen,
-  drugs, weapons, computers, venues, music, and other compressed details the
+- A 25-page first-reader glossary gives RAM, mycotoxin, the Chiba Hilton,
+  joeboys, New Yen, drugs, weapons, computers, venues, music, and other compressed details the
   same long-form treatment; every glossary entry is at least 650 words.
 - Each priority dossier has an individual ledger with 10 search attempts and
   20+ successfully fetched sources (200 searches and 480 reads in total).
-- The glossary adds 75 targeted searches and 84 consulted source links in its
+- The glossary adds 95 targeted searches and 119 consulted source links in its
   own auditable ledger.
 - Brief novel quotations are limited to 90 characters, located by part/chapter,
   and used only alongside analysis.

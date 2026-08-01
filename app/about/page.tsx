@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { allArticles, searchRecords } from "@/content";
+import { allArticles, microLoreArticles, searchRecords } from "@/content";
 import { priorityResearchArticles } from "@/lib/wiki";
 import { SiteHeader } from "@/components/SiteHeader";
 import { SiteFooter } from "@/components/SiteFooter";
@@ -40,7 +40,7 @@ export default function AboutPage() {
                 <div><dt>Article prose</dt><dd>{totalProseWords.toLocaleString()} words</dd></div>
                 <div><dt>Shortest article</dt><dd>{Math.min(...proseCounts)} words</dd></div>
                 <div><dt>Located quotations</dt><dd>{quotationCount}</dd></div>
-                <div><dt>First-reader glossary</dt><dd>24</dd></div>
+                <div><dt>First-reader glossary</dt><dd>{microLoreArticles.length}</dd></div>
                 <div><dt>Chapter guides</dt><dd>24</dd></div>
                 <div><dt>Canon layers</dt><dd>5</dd></div>
               </dl>
@@ -67,7 +67,7 @@ export default function AboutPage() {
               <section>
                 <p className="eyebrow">Reader glossary</p>
                 <h2>Small details deserve full explanations.</h2>
-                <p>Twenty-four additional field notes address the compressed names, objects, places, slang, drugs, weapons, computers, money, and music that often interrupt a first reading. Each page contains at least 650 words, records at least three targeted searches, and separates what the novel states from what readers or adaptations infer.</p>
+                <p>The {microLoreArticles.length} additional field notes address the compressed names, objects, places, slang, toxins, drugs, weapons, computers, money, and music that often interrupt a first reading. Each page contains at least 650 words, records its own targeted searches, and separates what the novel states from what readers or adaptations infer. The Mycotoxin entry exceeds the priority-dossier standard with 20 searches and 35 consulted pages.</p>
                 <p><Link href="/glossary">Browse the first-reader glossary →</Link></p>
               </section>
               <section className="about-callout">

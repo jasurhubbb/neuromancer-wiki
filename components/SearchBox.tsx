@@ -53,12 +53,19 @@ export function SearchBox({ records, compact = false }: { records: SearchRecord[
           placeholder={compact ? `Search ${records.length} articles` : "Search Case, cyberspace, Straylight…"}
           autoComplete="off"
         />
-        {!compact && <button type="submit">Search atlas</button>}
+        <button type="submit">{compact ? "Search" : "Search atlas"}</button>
       </form>
+      <p className="sr-only" role="status" aria-live="polite">
+        {normalized.length < 2
+          ? ""
+          : matches.length
+            ? `${matches.length} search suggestion${matches.length === 1 ? "" : "s"} available.`
+            : "No search suggestions available."}
+      </p>
       {normalized.length >= 2 && (
-        <div className="search-box__results" role="listbox" aria-label="Search suggestions">
+        <div className="search-box__results" aria-label="Search suggestions">
           {matches.length ? matches.map((record) => (
-            <Link key={record.slug} href={`/wiki/${record.slug}`} className="search-result" role="option">
+            <Link key={record.slug} href={`/wiki/${record.slug}`} className="search-result">
               <span>
                 <strong>{record.title}</strong>
                 <small>{record.category}</small>

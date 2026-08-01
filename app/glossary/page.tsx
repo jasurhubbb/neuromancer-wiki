@@ -24,10 +24,11 @@ const groupDefinitions = [
   {
     id: "street-kit",
     eyebrow: "02 / Street kit",
-    title: "Weapons, drugs, clothing, and pocket-sized clues.",
+    title: "Weapons, toxins, drugs, clothing, and pocket-sized clues.",
     description:
-      "Nine objects whose names arrive faster than their explanations—from Cobra and dex to derms, the shuriken, and Hideo’s bamboo bow.",
+      "Ten objects whose names arrive faster than their explanations—from Case’s mycotoxin and Cobra to derms, the shuriken, and Hideo’s bamboo bow.",
     slugs: [
+      "mycotoxin",
       "cobra-weapon-not-drug",
       "dex-dextroamphetamine-octagons",
       "mimetic-polycarbon-suit",
@@ -100,7 +101,7 @@ export default function GlossaryPage() {
             </div>
             <div className="page-hero__aside">
               <p>
-                RAM? Joeboy? Chiba Hilton? Gibson explains his future by momentum. These pages
+                RAM? Mycotoxin? Joeboy? Chiba Hilton? Gibson explains his future by momentum. These pages
                 stop, identify the detail, and then put it back into the scene.
               </p>
               <div className="page-stat"><strong>{microLoreArticles.length}</strong><span>small signals decoded</span></div>
@@ -120,8 +121,8 @@ export default function GlossaryPage() {
             </div>
             <dl className="glossary-metrics" aria-label="Glossary depth">
               <div><dt>Long-form prose</dt><dd>{glossaryWords.toLocaleString()}</dd><span>words</span></div>
-              <div><dt>Recorded searches</dt><dd>75</dd><span>across 24 entries</span></div>
-              <div><dt>Consulted links</dt><dd>84</dd><span>source trail</span></div>
+              <div><dt>Recorded searches</dt><dd>95</dd><span>{`across ${microLoreArticles.length} entries`}</span></div>
+              <div><dt>Consulted links</dt><dd>119</dd><span>source trail</span></div>
             </dl>
           </section>
 

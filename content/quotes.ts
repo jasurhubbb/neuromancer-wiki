@@ -121,4 +121,9 @@ export const quotationBySlug: Record<string, BookQuote> = {
     citation: "Neuromancer, Part One, Chapter 2",
     note: "The comparison makes the suite’s luxury legible through Case’s year of capsule living.",
   },
+  mycotoxin: {
+    text: "They damaged his nervous system with a wartime Russian mycotoxin.",
+    citation: "Neuromancer, Part One, Chapter 1",
+    note: "The sentence gives the poison a military history and a precise consequence while withholding its chemical identity.",
+  },
 };

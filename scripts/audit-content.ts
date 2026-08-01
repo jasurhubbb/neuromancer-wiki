@@ -87,6 +87,8 @@ for (const name of microResearchFiles) {
   const consulted: Array<{ title?: unknown; url?: unknown }> = Array.isArray(ledger.consulted)
     ? ledger.consulted
     : [];
+  const minimumQueries = Number(ledger.researchStandard?.minimumQueries ?? 0);
+  const minimumConsultedLinks = Number(ledger.researchStandard?.minimumConsultedLinks ?? 0);
   researchedMicroSlugs.add(ledger.slug);
   microSearches += queries.length;
   microConsultedLinks += consulted.length;
@@ -98,8 +100,10 @@ for (const name of microResearchFiles) {
   warn(consulted.length >= 3, `${name}: fewer than 3 consulted source links`);
   warn(ledger.searchCount === queries.length, `${name}: searchCount does not match its query log`);
   warn(ledger.consultedCount === consulted.length, `${name}: consultedCount does not match its source log`);
-  warn(ledger.researchStandard?.minimumQueries === 3, `${name}: glossary query floor is not documented`);
-  warn(ledger.researchStandard?.minimumConsultedLinks === 3, `${name}: glossary source floor is not documented`);
+  warn(minimumQueries >= 3, `${name}: glossary query floor is not documented`);
+  warn(minimumConsultedLinks >= 3, `${name}: glossary source floor is not documented`);
+  warn(queries.length >= minimumQueries, `${name}: documented query floor is not met`);
+  warn(consulted.length >= minimumConsultedLinks, `${name}: documented source floor is not met`);
   warn(ledger.researchStandard?.met === true, `${name}: documented glossary research floor is not met`);
   for (const source of consulted) {
     warn(typeof source.title === "string" && source.title.trim().length > 0, `${name}: consulted source lacks a title`);

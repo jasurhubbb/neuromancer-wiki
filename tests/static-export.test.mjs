@@ -12,7 +12,7 @@ test("exports the complete atlas home page", async () => {
   assert.match(html, /480\+<\/strong><span>source reads/);
   assert.match(html, /Research you can audit/);
   assert.match(html, /The details readers search mid-page/);
-  assert.match(html, /Open all 24/);
+  assert.match(html, /Open all 25/);
   assert.doesNotMatch(html, /Your site is taking shape|react-loading-skeleton/);
 });
 
@@ -25,11 +25,11 @@ test("exports long-form articles and their source apparatus", async () => {
   assert.match(html, /Related field notes/);
 });
 
-test("exports all 176 articles and the first-reader glossary", async () => {
+test("exports all 177 articles and the first-reader glossary", async () => {
   const glossary = await readFile(new URL("glossary/index.html", outputRoot), "utf8");
   assert.match(glossary, /What did that mean\?/);
   assert.match(glossary, /No stub definitions/);
-  assert.match(glossary, /75<\/dd><span>across 24 entries/);
+  assert.match(glossary, /95<\/dd><span>across 25 entries/);
 
   const ram = await readFile(new URL("wiki/ram-hot-memory/index.html", outputRoot), "utf8");
   assert.match(ram, /RAM in Neuromancer/);
@@ -41,8 +41,14 @@ test("exports all 176 articles and the first-reader glossary", async () => {
   assert.match(hilton, /After a year of coffins, the room/);
   assert.match(hilton, /twenty-fifth floor, not a room numbered 25/i);
 
+  const mycotoxin = await readFile(new URL("wiki/mycotoxin/index.html", outputRoot), "utf8");
+  assert.match(mycotoxin, /Mycotoxin/);
+  assert.match(mycotoxin, /They damaged his nervous system with a wartime Russian mycotoxin\./);
+  assert.match(mycotoxin, /The fifteen sacs/);
+  assert.match(mycotoxin, /World Health Organization/);
+
   const wikiEntries = await readdir(new URL("wiki/", outputRoot), { withFileTypes: true });
-  assert.equal(wikiEntries.filter((entry) => entry.isDirectory()).length, 176);
+  assert.equal(wikiEntries.filter((entry) => entry.isDirectory()).length, 177);
 });
 
 test("exports the public research ledger and static assets", async () => {

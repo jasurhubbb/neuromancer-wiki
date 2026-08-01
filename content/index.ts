@@ -8,6 +8,7 @@ import { publicationArticles } from "./publication";
 import { bridgeArticles } from "./bridges";
 import { microtechnologyArticles } from "./microtechnology";
 import { microplacesLoreArticles } from "./microplaces-lore";
+import { mycotoxinArticles } from "./mycotoxin";
 import { quotationBySlug } from "./quotes";
 import { editorialCodaBySlug, editorialExpansionBySlug } from "./editorial-expansions";
 import type { WikiArticle } from "./types";
@@ -46,17 +47,25 @@ const rawArticles = [
   ...bridgeArticles,
   ...microtechnologyArticles,
   ...microplacesLoreArticles,
+  ...mycotoxinArticles,
 ];
 
 export const microLoreSlugs = new Set(
-  [...microtechnologyArticles, ...microplacesLoreArticles].map((article) => article.slug),
+  [...microtechnologyArticles, ...microplacesLoreArticles, ...mycotoxinArticles].map((article) => article.slug),
 );
 
 const relatedMicroLoreBySlug: Record<string, string[]> = {
-  "henry-dorsett-case": ["ram-hot-memory", "case-hitachi-pocket-computer"],
+  "henry-dorsett-case": ["mycotoxin", "ram-hot-memory", "case-hitachi-pocket-computer"],
   "linda-lee": ["ram-hot-memory", "case-hitachi-pocket-computer"],
   "neuromancer-ai": ["ram-hot-memory"],
   "dixie-flatline": ["ram-hot-memory"],
+  "case-neural-repair": ["mycotoxin"],
+  "case-biomedical-controls": ["mycotoxin"],
+  "chapter-01": ["mycotoxin"],
+  "chapter-02": ["mycotoxin"],
+  "chapter-03": ["mycotoxin"],
+  "chapter-24": ["mycotoxin"],
+  wintermute: ["mycotoxin"],
   "cheap-hotel": ["chiba-hilton", "case-hitachi-pocket-computer"],
   "chiba-city": ["chiba-hilton", "jarre-de-the", "namban"],
   "armitage-willis-corto": ["chiba-hilton"],

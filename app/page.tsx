@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { allArticles, articleBySlug, searchRecords } from "@/content";
+import { allArticles, articleBySlug, microLoreArticles, searchRecords } from "@/content";
 import { articlesForCategory, categories, featuredArticles, priorityResearchArticles, routeArticles } from "@/lib/wiki";
 import { SiteHeader } from "@/components/SiteHeader";
 import { SiteFooter } from "@/components/SiteFooter";
@@ -15,10 +15,10 @@ export const metadata: Metadata = {
 const glossaryHighlights = [
   "ram-hot-memory",
   "chiba-hilton",
+  "mycotoxin",
   "cobra-weapon-not-drug",
   "ono-sendai-cyberspace-seven",
   "new-yen",
-  "joeboy",
 ].flatMap((slug) => {
   const article = articleBySlug.get(slug);
   return article ? [article] : [];
@@ -51,7 +51,7 @@ export default function Home() {
           </div>
           <div className="home-hero__search">
             <SearchBox records={searchRecords} />
-            <p><strong>New to the book?</strong> Use the <Link href="/glossary">first-reader glossary</Link> for RAM, joeboys, New Yen, Chiba addresses, and other unexplained signals. Full-book pages are clearly gated.</p>
+            <p><strong>New to the book?</strong> Use the <Link href="/glossary">first-reader glossary</Link> for RAM, mycotoxin, joeboys, New Yen, Chiba addresses, and other unexplained signals. Full-book pages are clearly gated.</p>
           </div>
         </section>
 
@@ -86,9 +86,9 @@ export default function Home() {
         <section className="section-frame home-glossary" aria-labelledby="home-glossary-title">
           <div className="section-heading">
             <div><p className="eyebrow">Small signals, full explanations</p><h2 id="home-glossary-title">The details readers search mid-page.</h2></div>
-            <Link href="/glossary">Open all 24 <span aria-hidden="true">→</span></Link>
+            <Link href="/glossary">{`Open all ${microLoreArticles.length}`} <span aria-hidden="true">→</span></Link>
           </div>
-          <p className="home-glossary__intro">What is “hot” RAM? Is Cobra a drug? Where is the Chiba Hilton in Case’s route? Each answer is a long field note with canon limits, scene context, sources, and links back into the novel.</p>
+          <p className="home-glossary__intro">What is “hot” RAM? What did the mycotoxin do to Case? Is Cobra a drug? Where is the Chiba Hilton in his route? Each answer is a long field note with canon limits, scene context, sources, and links back into the novel.</p>
           <div className="card-grid">
             {glossaryHighlights.map((article) => <ArticleCard key={article.slug} article={article} />)}
           </div>

@@ -210,8 +210,8 @@ export default function ResearchPage() {
           <section className="research-micro-note" aria-labelledby="micro-research-title">
             <div>
               <p className="eyebrow">Additional first-reader research</p>
-              <h2 id="micro-research-title">Twenty-four small signals, researched separately.</h2>
-              <p>RAM, the Chiba Hilton, joeboys, New Yen, minor venues, drugs, weapons, and interfaces have 75 targeted searches and 84 consulted links of their own.</p>
+              <h2 id="micro-research-title">Twenty-five small signals, researched separately.</h2>
+              <p>RAM, the mycotoxin, the Chiba Hilton, joeboys, New Yen, minor venues, drugs, weapons, and interfaces have 95 targeted searches and 119 consulted links of their own.</p>
             </div>
             <div className="research-micro-note__links">
               <Link href="/glossary">Browse the glossary <span aria-hidden="true">→</span></Link>
