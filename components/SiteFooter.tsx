@@ -15,6 +15,7 @@ export function SiteFooter() {
           <Link href="/wiki">All articles</Link>
           <Link href="/glossary">First-reader glossary</Link>
           <Link href="/research">Research ledger</Link>
+          <Link href="/fandom-coverage">Fandom coverage audit</Link>
           <Link href="/about">Research & editorial policy</Link>
           <a href="https://williamgibsonbooks.com/" rel="noreferrer">William Gibson’s site ↗</a>
         </nav>

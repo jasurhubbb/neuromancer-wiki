@@ -1,0 +1,146 @@
+{
+  "slug": "paris-in-neuromancer",
+  "fandomTitle": "Paris",
+  "searchedOn": "2026-08-02",
+  "searchCount": 10,
+  "queries": [
+    "\"Neuromancer Paris\"",
+    "Neuromancer Paris crew transit Turing Registry fashion craft",
+    "Neuromancer Paris William Gibson meaning",
+    "Neuromancer Paris chapter scene",
+    "Neuromancer Paris reading guide",
+    "Neuromancer Paris analysis",
+    "Neuromancer Paris glossary explanation",
+    "site:reddit.com Neuromancer \"Paris\"",
+    "site:williamgibson.fandom.com/wiki \"Paris\"",
+    "Paris real world history context William Gibson Neuromancer"
+  ],
+  "consultedCount": 24,
+  "consulted": [
+    {
+      "title": "William Gibson Wiki — Paris",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Paris&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Neuromancer",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Neuromancer&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — William Gibson",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=William+Gibson&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Neuromancer (AI)",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Neuromancer+%28AI%29&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Case",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Case&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Sprawl trilogy",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Sprawl+trilogy&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Count Zero",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Count+Zero&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Molly Millions",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Molly+Millions&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Orly",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Orly&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Sprawl Trilogy",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Sprawl+Trilogy&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "Wikipedia — Science fiction",
+      "url": "https://en.wikipedia.org/wiki/Science_fiction",
+      "status": 200
+    },
+    {
+      "title": "Wikipedia — Naked Lunch",
+      "url": "https://en.wikipedia.org/wiki/Naked_Lunch",
+      "status": 200
+    },
+    {
+      "title": "Wikipedia — Jean Giraud",
+      "url": "https://en.wikipedia.org/wiki/Jean_Giraud",
+      "status": 200
+    },
+    {
+      "title": "Wikipedia — Thomas Pynchon",
+      "url": "https://en.wikipedia.org/wiki/Thomas_Pynchon",
+      "status": 200
+    },
+    {
+      "title": "Wikipedia — J. K. Rowling",
+      "url": "https://en.wikipedia.org/wiki/J._K._Rowling",
+      "status": 200
+    },
+    {
+      "title": "Wikipedia — Kathy Acker",
+      "url": "https://en.wikipedia.org/wiki/Kathy_Acker",
+      "status": 200
+    },
+    {
+      "title": "Wikipedia — Nova (novel)",
+      "url": "https://en.wikipedia.org/wiki/Nova_(novel)",
+      "status": 200
+    },
+    {
+      "title": "Wikipedia — Drake (musician)",
+      "url": "https://en.wikipedia.org/wiki/Drake_(musician)",
+      "status": 200
+    },
+    {
+      "title": "Wikipedia — List of graphic adventure games",
+      "url": "https://en.wikipedia.org/wiki/List_of_graphic_adventure_games",
+      "status": 200
+    },
+    {
+      "title": "Wikipedia — Dune (novel)",
+      "url": "https://en.wikipedia.org/wiki/Dune_(novel)",
+      "status": 200
+    },
+    {
+      "title": "William Gibson Wiki — Mona Lisa Overdrive",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Mona+Lisa+Overdrive&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Toulon",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Toulon&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "Wikipedia — Mona Lisa Overdrive",
+      "url": "https://en.wikipedia.org/wiki/Mona_Lisa_Overdrive",
+      "status": 200
+    },
+    {
+      "title": "Wikipedia — Count Zero",
+      "url": "https://en.wikipedia.org/wiki/Count_Zero",
+      "status": 200
+    }
+  ],
+  "researchStandard": {
+    "minimumQueries": 10,
+    "minimumConsultedLinks": 20,
+    "met": true
+  }
+}

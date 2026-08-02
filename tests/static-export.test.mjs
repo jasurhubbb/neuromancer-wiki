@@ -8,11 +8,11 @@ test("exports the complete atlas home page", async () => {
   const html = await readFile(new URL("index.html", outputRoot), "utf8");
   assert.match(html, /Neuromancer Atlas/);
   assert.match(html, /field notes/);
-  assert.match(html, /200\+<\/strong><span>web searches/);
-  assert.match(html, /480\+<\/strong><span>source reads/);
+  assert.match(html, /1,158\+<\/strong><span>web searches/);
+  assert.match(html, /2,631\+<\/strong><span>source reads/);
   assert.match(html, /Research you can audit/);
   assert.match(html, /The details readers search mid-page/);
-  assert.match(html, /Open all 28/);
+  assert.match(html, /Open all 109/);
   assert.doesNotMatch(html, /Your site is taking shape|react-loading-skeleton/);
 });
 
@@ -25,12 +25,12 @@ test("exports long-form articles and their source apparatus", async () => {
   assert.match(html, /Related field notes/);
 });
 
-test("exports all 180 articles and the first-reader glossary", async () => {
+test("exports all 260 articles and the first-reader glossary", async () => {
   const glossary = await readFile(new URL("glossary/index.html", outputRoot), "utf8");
   assert.match(glossary, /What did that mean\?/);
   assert.match(glossary, /No stub definitions/);
-  assert.match(glossary, /142<\/dd><span>across 28 entries/);
-  assert.match(glossary, /203<\/dd><span>source trail/);
+  assert.match(glossary, /958<\/dd><span>across 109 entries/);
+  assert.match(glossary, /2,151<\/dd><span>source trail/);
 
   const ram = await readFile(new URL("wiki/ram-hot-memory/index.html", outputRoot), "utf8");
   assert.match(ram, /RAM in Neuromancer/);
@@ -69,8 +69,25 @@ test("exports all 180 articles and the first-reader glossary", async () => {
   assert.match(precis, /Merriam-Webster/);
   assert.match(precis, /Chapter 4 information flow/);
 
+  const microsofts = await readFile(new URL("wiki/microsofts/index.html", outputRoot), "utf8");
+  assert.match(microsofts, /Microsofts/);
+  assert.match(microsofts, /a dozen spikes of microsoft protruding from the socket behind his ear/);
+  assert.match(microsofts, /Microsoft Corporation/);
+
+  const smith = await readFile(new URL("wiki/smith/index.html", outputRoot), "utf8");
+  assert.match(smith, /Smith’s knowledge of the art business was formidable/);
+  assert.match(smith, /not explicitly named Hideo/i);
+
+  const jimmy = await readFile(new URL("wiki/jimmy/index.html", outputRoot), "utf8");
+  assert.match(jimmy, /Within days, Smith learned of Jimmy’s death\./);
+  assert.match(jimmy, /year in high orbit/i);
+
+  const hsg = await readFile(new URL("wiki/hsg/index.html", outputRoot), "utf8");
+  assert.match(hsg, /human skeletal growth factor/);
+  assert.match(hsg, /ten distinct searches and twenty-four successfully fetched pages/i);
+
   const wikiEntries = await readdir(new URL("wiki/", outputRoot), { withFileTypes: true });
-  assert.equal(wikiEntries.filter((entry) => entry.isDirectory()).length, 180);
+  assert.equal(wikiEntries.filter((entry) => entry.isDirectory()).length, 260);
 });
 
 test("exports the public research ledger and static assets", async () => {
@@ -78,6 +95,12 @@ test("exports the public research ledger and static assets", async () => {
   assert.match(research, /Show the work/);
   assert.match(research, /10 recorded search attempts/);
   assert.match(research, /24 successfully fetched pages/);
+
+  const coverage = await readFile(new URL("fandom-coverage/index.html", outputRoot), "utf8");
+  assert.match(coverage, /141 topics\. 141 local destinations\./);
+  assert.match(coverage, /78<\/dd>/);
+  assert.match(coverage, /Akai Transdermal Inducer/);
+  assert.match(coverage, /Dr\. Virginia Rambaldi/);
 
   await Promise.all([
     access(new URL("og.png", outputRoot)),

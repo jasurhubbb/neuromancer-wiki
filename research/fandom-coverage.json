@@ -1,0 +1,1003 @@
+{
+  "checkedAt": "2026-08-02T02:36:06.115Z",
+  "sourceWiki": "https://williamgibson.fandom.com/wiki/Neuromancer",
+  "discoveryCategories": [
+    "Neuromancer",
+    "Characters in Neuromancer",
+    "Character in the Neuromancer",
+    "Neuromancer characters"
+  ],
+  "fandomTopicCount": 141,
+  "coveredTopicCount": 141,
+  "newPageCount": 78,
+  "existingOrAliasCount": 63,
+  "results": [
+    {
+      "fandomTitle": "3Jane Tessier-Ashpool",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/3Jane_Tessier-Ashpool",
+      "localSlug": "lady-3jane",
+      "localTitle": "Lady 3Jane Marie-France Tessier-Ashpool",
+      "coverageType": "semantic-alias"
+    },
+    {
+      "fandomTitle": "Aerol",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Aerol",
+      "localSlug": "aerol",
+      "localTitle": "Aerol",
+      "coverageType": "existing-page"
+    },
+    {
+      "fandomTitle": "Akai",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Akai",
+      "localSlug": "akai-transdermal-unit",
+      "localTitle": "Akai Transdermal Inducer",
+      "coverageType": "new-page"
+    },
+    {
+      "fandomTitle": "Ali",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Ali",
+      "localSlug": "ali",
+      "localTitle": "Ali",
+      "coverageType": "new-page"
+    },
+    {
+      "fandomTitle": "Angelo",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Angelo",
+      "localSlug": "angelo",
+      "localTitle": "Angelo",
+      "coverageType": "new-page"
+    },
+    {
+      "fandomTitle": "Arabs",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Arabs",
+      "localSlug": "arab-horse-cloning",
+      "localTitle": "Arab Horse Reconstruction",
+      "coverageType": "new-page"
+    },
+    {
+      "fandomTitle": "Arcade",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Arcade",
+      "localSlug": "ninsei-arcade",
+      "localTitle": "The Ninsei Arcade",
+      "coverageType": "new-page"
+    },
+    {
+      "fandomTitle": "Armitage",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Armitage",
+      "localSlug": "armitage-willis-corto",
+      "localTitle": "Armitage / Willis Corto",
+      "coverageType": "semantic-alias"
+    },
+    {
+      "fandomTitle": "Artificial Intelligence",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Artificial_Intelligence",
+      "localSlug": "artificial-intelligence-sprawl",
+      "localTitle": "Artificial Intelligence in the Sprawl",
+      "coverageType": "semantic-alias"
+    },
+    {
+      "fandomTitle": "Baltimore",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Baltimore",
+      "localSlug": "baltimore",
+      "localTitle": "Baltimore in the Sprawl",
+      "coverageType": "new-page"
+    },
+    {
+      "fandomTitle": "Bank chip",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Bank_chip",
+      "localSlug": "bank-chip",
+      "localTitle": "Bank Chips",
+      "coverageType": "new-page"
+    },
+    {
+      "fandomTitle": "Bell Europa",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Bell_Europa",
+      "localSlug": "bell-europa",
+      "localTitle": "Bell Europa",
+      "coverageType": "new-page"
+    },
+    {
+      "fandomTitle": "Berne",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Berne",
+      "localSlug": "berne",
+      "localTitle": "Berne",
+      "coverageType": "new-page"
+    },
+    {
+      "fandomTitle": "Betaphenethylamine",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Betaphenethylamine",
+      "localSlug": "betaphenethylamine",
+      "localTitle": "Betaphenethylamine (‘Beta’)",
+      "coverageType": "new-page"
+    },
+    {
+      "fandomTitle": "Beyoglu",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Beyoglu",
+      "localSlug": "beyoglu",
+      "localTitle": "Beyoğlu",
+      "coverageType": "new-page"
+    },
+    {
+      "fandomTitle": "Blue Nine",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Blue_Nine",
+      "localSlug": "blue-nine-grievous-angel",
+      "localTitle": "Blue Nine / Grievous Angel",
+      "coverageType": "semantic-alias"
+    },
+    {
+      "fandomTitle": "Bockris Systems",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Bockris_Systems",
+      "localSlug": "bockris-systems",
+      "localTitle": "Bockris Systems GmbH",
+      "coverageType": "new-page"
+    },
+    {
+      "fandomTitle": "Braun",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Braun",
+      "localSlug": "braun-in-neuromancer",
+      "localTitle": "Braun in Neuromancer",
+      "coverageType": "new-page"
+    },
+    {
+      "fandomTitle": "Brood",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Brood",
+      "localSlug": "brood",
+      "localTitle": "Brood",
+      "coverageType": "new-page"
+    },
+    {
+      "fandomTitle": "Brooklyn",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Brooklyn",
+      "localSlug": "brooklyn",
+      "localTitle": "Brooklyn",
+      "coverageType": "new-page"
+    },
+    {
+      "fandomTitle": "Bruce",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Bruce",
+      "localSlug": "cath-and-bruce",
+      "localTitle": "Cath and Bruce",
+      "coverageType": "semantic-alias"
+    },
+    {
+      "fandomTitle": "Case",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Case",
+      "localSlug": "henry-dorsett-case",
+      "localTitle": "Henry Dorsett Case",
+      "coverageType": "semantic-alias"
+    },
+    {
+      "fandomTitle": "Cath",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Cath",
+      "localSlug": "cath-and-bruce",
+      "localTitle": "Cath and Bruce",
+      "coverageType": "semantic-alias"
+    },
+    {
+      "fandomTitle": "Chatsubo",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Chatsubo",
+      "localSlug": "chatsubo",
+      "localTitle": "The Chatsubo",
+      "coverageType": "existing-page"
+    },
+    {
+      "fandomTitle": "Chiba City",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Chiba_City",
+      "localSlug": "chiba-city",
+      "localTitle": "Chiba City",
+      "coverageType": "existing-page"
+    },
+    {
+      "fandomTitle": "Chiba Hilton",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Chiba_Hilton",
+      "localSlug": "chiba-hilton",
+      "localTitle": "Chiba Hilton",
+      "coverageType": "existing-page"
+    },
+    {
+      "fandomTitle": "China",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/China",
+      "localSlug": "china-in-neuromancer",
+      "localTitle": "China in Neuromancer",
+      "coverageType": "new-page"
+    },
+    {
+      "fandomTitle": "Christian Scientists",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Christian_Scientists",
+      "localSlug": "christian-scientists",
+      "localTitle": "Christian Scientists in the Sprawl",
+      "coverageType": "new-page"
+    },
+    {
+      "fandomTitle": "Citroen",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Citroen",
+      "localSlug": "citroen-in-istanbul",
+      "localTitle": "Citroën in Istanbul",
+      "coverageType": "new-page"
+    },
+    {
+      "fandomTitle": "Congressional aide",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Congressional_aide",
+      "localSlug": "congressional-aide",
+      "localTitle": "The Congressional Aide",
+      "coverageType": "new-page"
+    },
+    {
+      "fandomTitle": "Copenhagen",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Copenhagen",
+      "localSlug": "copenhagen-grid",
+      "localTitle": "The Copenhagen Grid",
+      "coverageType": "new-page"
+    },
+    {
+      "fandomTitle": "Cray",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Cray",
+      "localSlug": "cray-computers",
+      "localTitle": "Cray Computers",
+      "coverageType": "new-page"
+    },
+    {
+      "fandomTitle": "Cumhuriyet Caddesi",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Cumhuriyet_Caddesi",
+      "localSlug": "cumhuriyet-caddesi",
+      "localTitle": "Cumhuriyet Caddesi",
+      "coverageType": "new-page"
+    },
+    {
+      "fandomTitle": "Dermadisk",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Dermadisk",
+      "localSlug": "derms-dermadisks",
+      "localTitle": "Derms and Dermadisks",
+      "coverageType": "semantic-alias"
+    },
+    {
+      "fandomTitle": "Dermatrodes",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Dermatrodes",
+      "localSlug": "dermatrodes",
+      "localTitle": "Dermatrodes / Trodes",
+      "coverageType": "existing-page"
+    },
+    {
+      "fandomTitle": "Dixie Flatline",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Dixie_Flatline",
+      "localSlug": "dixie-flatline",
+      "localTitle": "McCoy “Dixie Flatline” Pauley",
+      "coverageType": "existing-page"
+    },
+    {
+      "fandomTitle": "Dreaming real",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Dreaming_real",
+      "localSlug": "dreaming-real",
+      "localTitle": "Dreaming Real",
+      "coverageType": "new-page"
+    },
+    {
+      "fandomTitle": "Eastern Seaboard Fission Authority",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Eastern_Seaboard_Fission_Authority",
+      "localSlug": "eastern-seaboard-fission-authority",
+      "localTitle": "Eastern Seaboard Fission Authority",
+      "coverageType": "new-page"
+    },
+    {
+      "fandomTitle": "Elders of Zion",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Elders_of_Zion",
+      "localSlug": "zion-founders-elders",
+      "localTitle": "Zion Founders and Elders",
+      "coverageType": "semantic-alias"
+    },
+    {
+      "fandomTitle": "Elroy",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Elroy",
+      "localSlug": "elroy",
+      "localTitle": "Elroy",
+      "coverageType": "new-page"
+    },
+    {
+      "fandomTitle": "Freeside nightclub",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Freeside_nightclub",
+      "localSlug": "freeside-hospitality-nightlife",
+      "localTitle": "Freeside Hospitality and Nightlife",
+      "coverageType": "semantic-alias"
+    },
+    {
+      "fandomTitle": "Fuji Electric Company",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Fuji_Electric_Company",
+      "localSlug": "fuji-electric-company",
+      "localTitle": "Fuji Electric Company",
+      "coverageType": "new-page"
+    },
+    {
+      "fandomTitle": "Gardening robot",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Gardening_robot",
+      "localSlug": "gardening-robots",
+      "localTitle": "Gardening Robots",
+      "coverageType": "new-page"
+    },
+    {
+      "fandomTitle": "Gerald Chin",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Gerald_Chin",
+      "localSlug": "gerald-chin",
+      "localTitle": "Dr. Gerald Chin",
+      "coverageType": "new-page"
+    },
+    {
+      "fandomTitle": "Grand Bazaar",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Grand_Bazaar",
+      "localSlug": "grand-bazaar",
+      "localTitle": "The Grand Bazaar",
+      "coverageType": "new-page"
+    },
+    {
+      "fandomTitle": "Haniwa",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Haniwa",
+      "localSlug": "haniwa-yacht",
+      "localTitle": "Haniwa",
+      "coverageType": "existing-page"
+    },
+    {
+      "fandomTitle": "Hitachi Pocket Computer",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Hitachi_Pocket_Computer",
+      "localSlug": "case-hitachi-pocket-computer",
+      "localTitle": "Case’s Hitachi Pocket Computer",
+      "coverageType": "semantic-alias"
+    },
+    {
+      "fandomTitle": "Honda",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Honda",
+      "localSlug": "honda-trike",
+      "localTitle": "Bruce’s Honda Trike",
+      "coverageType": "new-page"
+    },
+    {
+      "fandomTitle": "Hosaka computer",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Hosaka_computer",
+      "localSlug": "hosaka-computers",
+      "localTitle": "Hosaka Computers",
+      "coverageType": "semantic-alias"
+    },
+    {
+      "fandomTitle": "HsG",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/HsG",
+      "localSlug": "hsg",
+      "localTitle": "HsG",
+      "coverageType": "new-page"
+    },
+    {
+      "fandomTitle": "ICE",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/ICE",
+      "localSlug": "ice",
+      "localTitle": "ICE",
+      "coverageType": "existing-page"
+    },
+    {
+      "fandomTitle": "Icebreaker",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Icebreaker",
+      "localSlug": "icebreakers",
+      "localTitle": "Icebreakers",
+      "coverageType": "semantic-alias"
+    },
+    {
+      "fandomTitle": "Istanbul",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Istanbul",
+      "localSlug": "istanbul",
+      "localTitle": "Istanbul",
+      "coverageType": "existing-page"
+    },
+    {
+      "fandomTitle": "Istanbul Hilton",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Istanbul_Hilton",
+      "localSlug": "istanbul-hilton",
+      "localTitle": "Istanbul Hilton",
+      "coverageType": "new-page"
+    },
+    {
+      "fandomTitle": "JAL",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/JAL",
+      "localSlug": "jal-orbital-shuttle",
+      "localTitle": "The JAL Orbital Shuttle",
+      "coverageType": "new-page"
+    },
+    {
+      "fandomTitle": "Jarre de Thé",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Jarre_de_Th%C3%A9",
+      "localSlug": "jarre-de-the",
+      "localTitle": "Jarre de Thé",
+      "coverageType": "existing-page"
+    },
+    {
+      "fandomTitle": "Jimmy",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Jimmy",
+      "localSlug": "jimmy",
+      "localTitle": "Jimmy",
+      "coverageType": "existing-page"
+    },
+    {
+      "fandomTitle": "Julius Deane",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Julius_Deane",
+      "localSlug": "julius-deane",
+      "localTitle": "Julius “Julie” Deane",
+      "coverageType": "existing-page"
+    },
+    {
+      "fandomTitle": "Julius Deane Import Export",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Julius_Deane_Import_Export",
+      "localSlug": "julius-deane-import-export",
+      "localTitle": "Julius Deane Import Export",
+      "coverageType": "new-page"
+    },
+    {
+      "fandomTitle": "Kuang Eleven",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Kuang_Eleven",
+      "localSlug": "kuang-grade-mark-eleven",
+      "localTitle": "Kuang Grade Mark Eleven",
+      "coverageType": "semantic-alias"
+    },
+    {
+      "fandomTitle": "Kurt",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Kurt",
+      "localSlug": "kurt",
+      "localTitle": "Kurt",
+      "coverageType": "new-page"
+    },
+    {
+      "fandomTitle": "L-5 archipelago",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/L-5_archipelago",
+      "localSlug": "l5-archipelago",
+      "localTitle": "The L-5 Archipelago",
+      "coverageType": "new-page"
+    },
+    {
+      "fandomTitle": "Lady 3Jane Marie-France Tessier-Ashpool",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Lady_3Jane_Marie-France_Tessier-Ashpool",
+      "localSlug": "lady-3jane",
+      "localTitle": "Lady 3Jane Marie-France Tessier-Ashpool",
+      "coverageType": "existing-page"
+    },
+    {
+      "fandomTitle": "Larry",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Larry",
+      "localSlug": "larry",
+      "localTitle": "Larry",
+      "coverageType": "new-page"
+    },
+    {
+      "fandomTitle": "Linda Lee",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Linda_Lee",
+      "localSlug": "linda-lee",
+      "localTitle": "Linda Lee",
+      "coverageType": "existing-page"
+    },
+    {
+      "fandomTitle": "London",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/London",
+      "localSlug": "london-grid",
+      "localTitle": "The London Grid",
+      "coverageType": "new-page"
+    },
+    {
+      "fandomTitle": "Lonny Zone",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Lonny_Zone",
+      "localSlug": "lonny-zone",
+      "localTitle": "Lonny Zone",
+      "coverageType": "existing-page"
+    },
+    {
+      "fandomTitle": "Los Angeles",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Los_Angeles",
+      "localSlug": "los-angeles",
+      "localTitle": "Los Angeles in Neuromancer",
+      "coverageType": "new-page"
+    },
+    {
+      "fandomTitle": "Lupus Yonderboy",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Lupus_Yonderboy",
+      "localSlug": "lupus-yonderboy",
+      "localTitle": "Lupus Yonderboy",
+      "coverageType": "existing-page"
+    },
+    {
+      "fandomTitle": "Maelcum",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Maelcum",
+      "localSlug": "maelcum",
+      "localTitle": "Maelcum",
+      "coverageType": "existing-page"
+    },
+    {
+      "fandomTitle": "Marcus Garvey",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Marcus_Garvey",
+      "localSlug": "marcus-garvey-tug",
+      "localTitle": "Marcus Garvey",
+      "coverageType": "existing-page"
+    },
+    {
+      "fandomTitle": "Marlene",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Marlene",
+      "localSlug": "marlene",
+      "localTitle": "Marlene",
+      "coverageType": "new-page"
+    },
+    {
+      "fandomTitle": "Matrix",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Matrix",
+      "localSlug": "cyberspace-matrix",
+      "localTitle": "Cyberspace / The Matrix",
+      "coverageType": "semantic-alias"
+    },
+    {
+      "fandomTitle": "Matsuga",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Matsuga",
+      "localSlug": "matsuga",
+      "localTitle": "Matsuga",
+      "coverageType": "new-page"
+    },
+    {
+      "fandomTitle": "Meat puppet",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Meat_puppet",
+      "localSlug": "meat-puppet-cut-out",
+      "localTitle": "Meat-Puppet Cut-Out Technology",
+      "coverageType": "semantic-alias"
+    },
+    {
+      "fandomTitle": "Melanin boosting",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Melanin_boosting",
+      "localSlug": "melanin-boosting",
+      "localTitle": "Melanin Boosting",
+      "coverageType": "new-page"
+    },
+    {
+      "fandomTitle": "Memory Lane",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Memory_Lane",
+      "localSlug": "memory-lane",
+      "localTitle": "Memory Lane",
+      "coverageType": "existing-page"
+    },
+    {
+      "fandomTitle": "Mercedes",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Mercedes",
+      "localSlug": "mercedes-automatic-car",
+      "localTitle": "The Automatic Mercedes",
+      "coverageType": "new-page"
+    },
+    {
+      "fandomTitle": "Michele",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Michele",
+      "localSlug": "michele",
+      "localTitle": "Michele",
+      "coverageType": "new-page"
+    },
+    {
+      "fandomTitle": "Microsoft",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Microsoft",
+      "localSlug": "microsofts",
+      "localTitle": "Microsofts",
+      "coverageType": "semantic-alias"
+    },
+    {
+      "fandomTitle": "Mimetic polycarbon",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Mimetic_polycarbon",
+      "localSlug": "mimetic-polycarbon-suit",
+      "localTitle": "The Mimetic Polycarbon Suit",
+      "coverageType": "semantic-alias"
+    },
+    {
+      "fandomTitle": "Mitsubishi-Genentech",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Mitsubishi-Genentech",
+      "localSlug": "mitsubishi-genentech",
+      "localTitle": "Mitsubishi-Genentech",
+      "coverageType": "new-page"
+    },
+    {
+      "fandomTitle": "Molly Millions",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Molly_Millions",
+      "localSlug": "molly",
+      "localTitle": "Molly",
+      "coverageType": "semantic-alias"
+    },
+    {
+      "fandomTitle": "Mona",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Mona",
+      "localSlug": "mona",
+      "localTitle": "Mona of Night City",
+      "coverageType": "new-page"
+    },
+    {
+      "fandomTitle": "Neuromancer (AI)",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Neuromancer_(AI)",
+      "localSlug": "neuromancer-ai",
+      "localTitle": "Neuromancer / Rio",
+      "coverageType": "semantic-alias"
+    },
+    {
+      "fandomTitle": "New Jersey",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/New_Jersey",
+      "localSlug": "new-jersey",
+      "localTitle": "New Jersey in Neuromancer",
+      "coverageType": "new-page"
+    },
+    {
+      "fandomTitle": "New Yen",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/New_Yen",
+      "localSlug": "new-yen",
+      "localTitle": "New Yen",
+      "coverageType": "existing-page"
+    },
+    {
+      "fandomTitle": "New York",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/New_York",
+      "localSlug": "new-york-in-the-sprawl",
+      "localTitle": "New York in the Sprawl",
+      "coverageType": "new-page"
+    },
+    {
+      "fandomTitle": "New York Public Library",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/New_York_Public_Library",
+      "localSlug": "new-york-public-library",
+      "localTitle": "New York Public Library",
+      "coverageType": "new-page"
+    },
+    {
+      "fandomTitle": "Night City",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Night_City",
+      "localSlug": "night-city",
+      "localTitle": "Night City",
+      "coverageType": "existing-page"
+    },
+    {
+      "fandomTitle": "Nightwing",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Nightwing",
+      "localSlug": "nightwing",
+      "localTitle": "Nightwing Assault Parafoils",
+      "coverageType": "new-page"
+    },
+    {
+      "fandomTitle": "Ninsei",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Ninsei",
+      "localSlug": "ninsei",
+      "localTitle": "Ninsei",
+      "coverageType": "existing-page"
+    },
+    {
+      "fandomTitle": "Ono-Sendai Cyberspace VII",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Ono-Sendai_Cyberspace_VII",
+      "localSlug": "ono-sendai-cyberspace-seven",
+      "localTitle": "Ono-Sendai Cyberspace Seven",
+      "coverageType": "semantic-alias"
+    },
+    {
+      "fandomTitle": "Orly",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Orly",
+      "localSlug": "orly",
+      "localTitle": "Orly",
+      "coverageType": "new-page"
+    },
+    {
+      "fandomTitle": "Panther Moderns",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Panther_Moderns",
+      "localSlug": "panther-moderns",
+      "localTitle": "Panther Moderns",
+      "coverageType": "existing-page"
+    },
+    {
+      "fandomTitle": "Paris",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Paris",
+      "localSlug": "paris-in-neuromancer",
+      "localTitle": "Paris in Neuromancer",
+      "coverageType": "new-page"
+    },
+    {
+      "fandomTitle": "Peter Riviera",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Peter_Riviera",
+      "localSlug": "peter-riviera",
+      "localTitle": "Peter Riviera",
+      "coverageType": "existing-page"
+    },
+    {
+      "fandomTitle": "Pierre",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Pierre",
+      "localSlug": "pierre",
+      "localTitle": "Pierre",
+      "coverageType": "new-page"
+    },
+    {
+      "fandomTitle": "Rastafarians",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Rastafarians",
+      "localSlug": "zion-rastafari-diaspora",
+      "localTitle": "Zion, Rastafari, and Diaspora",
+      "coverageType": "semantic-alias"
+    },
+    {
+      "fandomTitle": "Ratz",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Ratz",
+      "localSlug": "ratz",
+      "localTitle": "Ratz",
+      "coverageType": "existing-page"
+    },
+    {
+      "fandomTitle": "Reinhold Scientific",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Reinhold_Scientific",
+      "localSlug": "reinhold-scientific",
+      "localTitle": "Reinhold Scientific A.G.",
+      "coverageType": "new-page"
+    },
+    {
+      "fandomTitle": "Rio",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Rio",
+      "localSlug": "rio",
+      "localTitle": "Rio de Janeiro",
+      "coverageType": "new-page"
+    },
+    {
+      "fandomTitle": "Roland",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Roland",
+      "localSlug": "roland",
+      "localTitle": "Roland",
+      "coverageType": "new-page"
+    },
+    {
+      "fandomTitle": "Rollo",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Rollo",
+      "localSlug": "rollo",
+      "localTitle": "Rollo",
+      "coverageType": "new-page"
+    },
+    {
+      "fandomTitle": "Sammi's",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Sammi's",
+      "localSlug": "sammis-arena",
+      "localTitle": "Sammi’s Arena",
+      "coverageType": "semantic-alias"
+    },
+    {
+      "fandomTitle": "Screaming Fist",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Screaming_Fist",
+      "localSlug": "screaming-fist-task-force",
+      "localTitle": "Operation Screaming Fist Task Force",
+      "coverageType": "semantic-alias"
+    },
+    {
+      "fandomTitle": "Sense/Net",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Sense%2FNet",
+      "localSlug": "sense-net",
+      "localTitle": "Sense/Net",
+      "coverageType": "existing-page"
+    },
+    {
+      "fandomTitle": "Sense/Net Pyramid",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Sense%2FNet_Pyramid",
+      "localSlug": "sense-net-pyramid",
+      "localTitle": "Sense/Net Pyramid",
+      "coverageType": "existing-page"
+    },
+    {
+      "fandomTitle": "Shiga",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Shiga",
+      "localSlug": "shiga-night-city",
+      "localTitle": "Shiga Market in Night City",
+      "coverageType": "new-page"
+    },
+    {
+      "fandomTitle": "Shin",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Shin",
+      "localSlug": "shin",
+      "localTitle": "Shin",
+      "coverageType": "new-page"
+    },
+    {
+      "fandomTitle": "Shinjuku",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Shinjuku",
+      "localSlug": "shinjuku",
+      "localTitle": "Shinjuku",
+      "coverageType": "new-page"
+    },
+    {
+      "fandomTitle": "Sikkim",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Sikkim",
+      "localSlug": "sikkim-steel-combine",
+      "localTitle": "Sikkim and the Steel Combine",
+      "coverageType": "new-page"
+    },
+    {
+      "fandomTitle": "SimStim",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/SimStim",
+      "localSlug": "simstim-sensorium",
+      "localTitle": "Simstim and Sensorium",
+      "coverageType": "semantic-alias"
+    },
+    {
+      "fandomTitle": "Smith",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Smith",
+      "localSlug": "smith",
+      "localTitle": "Smith",
+      "coverageType": "existing-page"
+    },
+    {
+      "fandomTitle": "Smith & Wesson",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Smith_%26_Wesson",
+      "localSlug": "smith-wesson-riot-gun",
+      "localTitle": "Smith & Wesson Riot Gun",
+      "coverageType": "new-page"
+    },
+    {
+      "fandomTitle": "Snake Man",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Snake_Man",
+      "localSlug": "snake-man",
+      "localTitle": "Snake Man",
+      "coverageType": "new-page"
+    },
+    {
+      "fandomTitle": "Sons of Christ the King",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Sons_of_Christ_the_King",
+      "localSlug": "sons-of-christ-the-king",
+      "localTitle": "Sons of Christ the King",
+      "coverageType": "new-page"
+    },
+    {
+      "fandomTitle": "Spice Bazaar",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Spice_Bazaar",
+      "localSlug": "spice-bazaar",
+      "localTitle": "The Spice Bazaar",
+      "coverageType": "new-page"
+    },
+    {
+      "fandomTitle": "Switzerland",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Switzerland",
+      "localSlug": "switzerland-in-neuromancer",
+      "localTitle": "Switzerland in Neuromancer",
+      "coverageType": "new-page"
+    },
+    {
+      "fandomTitle": "Talking head",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Talking_head",
+      "localSlug": "cloisonne-head-terminal",
+      "localTitle": "The Cloisonné Head Terminal",
+      "coverageType": "semantic-alias"
+    },
+    {
+      "fandomTitle": "Tally Isham",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Tally_Isham",
+      "localSlug": "tally-isham",
+      "localTitle": "Tally Isham",
+      "coverageType": "new-page"
+    },
+    {
+      "fandomTitle": "Tank War Europa",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Tank_War_Europa",
+      "localSlug": "tank-war-europa",
+      "localTitle": "Tank War Europa",
+      "coverageType": "new-page"
+    },
+    {
+      "fandomTitle": "Terzibashjian",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Terzibashjian",
+      "localSlug": "terzibashjian",
+      "localTitle": "Terzibashjian",
+      "coverageType": "existing-page"
+    },
+    {
+      "fandomTitle": "Tessier-Ashpool",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Tessier-Ashpool",
+      "localSlug": "tessier-ashpool-sa",
+      "localTitle": "Tessier-Ashpool S.A.",
+      "coverageType": "semantic-alias"
+    },
+    {
+      "fandomTitle": "The Doll",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/The_Doll",
+      "localSlug": "chapter-11",
+      "localTitle": "Chapter 11: “The Doll”",
+      "coverageType": "semantic-alias"
+    },
+    {
+      "fandomTitle": "The Finn",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/The_Finn",
+      "localSlug": "the-finn",
+      "localTitle": "The Finn",
+      "coverageType": "existing-page"
+    },
+    {
+      "fandomTitle": "The Sprawl",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/The_Sprawl",
+      "localSlug": "sprawl-bama",
+      "localTitle": "The Sprawl / BAMA",
+      "coverageType": "semantic-alias"
+    },
+    {
+      "fandomTitle": "The War",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/The_War",
+      "localSlug": "the-war",
+      "localTitle": "The War",
+      "coverageType": "new-page"
+    },
+    {
+      "fandomTitle": "Topkapi",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Topkapi",
+      "localSlug": "topkapi",
+      "localTitle": "Topkapı Palace",
+      "coverageType": "new-page"
+    },
+    {
+      "fandomTitle": "Toulon",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Toulon",
+      "localSlug": "toulon",
+      "localTitle": "Toulon",
+      "coverageType": "new-page"
+    },
+    {
+      "fandomTitle": "Turing Police",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Turing_Police",
+      "localSlug": "turing-registry",
+      "localTitle": "Turing Registry",
+      "coverageType": "semantic-alias"
+    },
+    {
+      "fandomTitle": "Turkey",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Turkey",
+      "localSlug": "turkey-in-neuromancer",
+      "localTitle": "Turkey in Neuromancer",
+      "coverageType": "new-page"
+    },
+    {
+      "fandomTitle": "Villa Straylight",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Villa_Straylight",
+      "localSlug": "villa-straylight",
+      "localTitle": "Villa Straylight",
+      "coverageType": "existing-page"
+    },
+    {
+      "fandomTitle": "Virginia Rambaldi",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Virginia_Rambaldi",
+      "localSlug": "virginia-rambaldi",
+      "localTitle": "Dr. Virginia Rambaldi",
+      "coverageType": "new-page"
+    },
+    {
+      "fandomTitle": "Wage",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Wage",
+      "localSlug": "wage",
+      "localTitle": "Wage",
+      "coverageType": "existing-page"
+    },
+    {
+      "fandomTitle": "Walther PPK",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Walther_PPK",
+      "localSlug": "walther-ppk",
+      "localTitle": "Case’s Walther PPK Copy",
+      "coverageType": "new-page"
+    },
+    {
+      "fandomTitle": "Wintermute",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Wintermute",
+      "localSlug": "wintermute",
+      "localTitle": "Wintermute",
+      "coverageType": "existing-page"
+    },
+    {
+      "fandomTitle": "Wizard's Castle",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Wizard's_Castle",
+      "localSlug": "wizards-castle",
+      "localTitle": "Wizard’s Castle",
+      "coverageType": "new-page"
+    },
+    {
+      "fandomTitle": "Yenishehir Palas Oteli",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Yenishehir_Palas_Oteli",
+      "localSlug": "yenisehir-palas-oteli",
+      "localTitle": "Yenişehir Palas Oteli",
+      "coverageType": "new-page"
+    },
+    {
+      "fandomTitle": "Yesilkoy",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Yesilkoy",
+      "localSlug": "yesilkoy",
+      "localTitle": "Yeşilköy",
+      "coverageType": "new-page"
+    },
+    {
+      "fandomTitle": "Zurich",
+      "fandomUrl": "https://williamgibson.fandom.com/wiki/Zurich",
+      "localSlug": "zurich",
+      "localTitle": "Zurich",
+      "coverageType": "new-page"
+    }
+  ]
+}

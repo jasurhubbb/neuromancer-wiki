@@ -12,14 +12,20 @@ export const metadata: Metadata = {
     "Long explanations of Neuromancer’s easy-to-miss tools, terms, objects, venues, drugs, money, music, and street language.",
 };
 
-const groupDefinitions = [
+const curatedGroupDefinitions: Array<{
+  id: string;
+  eyebrow: string;
+  title: string;
+  description: string;
+  slugs: string[];
+}> = [
   {
     id: "memory-machines",
     eyebrow: "01 / Memory & machines",
     title: "Computers the novel never pauses to unpack.",
     description:
       "Separate hot RAM from personality RAM, a pocket computer from a deck, Case’s Ono-Sendai from Finn’s switch, and a Hosaka précis from the machine that composes it.",
-    slugs: ["ram-hot-memory", "case-hitachi-pocket-computer", "ono-sendai-cyberspace-seven", "flip-flop-switch", "hosaka-computers", "precis"],
+    slugs: ["ram-hot-memory", "case-hitachi-pocket-computer", "ono-sendai-cyberspace-seven", "flip-flop-switch", "hosaka-computers", "precis", "microsofts"],
   },
   {
     id: "street-kit",
@@ -64,7 +70,52 @@ const groupDefinitions = [
       "Decode joeboy, sarariman, New Yen, and the Steppin’ Razor dub motif without flattening them into invented lore.",
     slugs: ["joeboy", "sarariman", "new-yen", "steppin-razor-zion-dub"],
   },
-] as const;
+  {
+    id: "minor-operators",
+    eyebrow: "06 / Minor operators",
+    title: "Small names inside large criminal systems.",
+    description:
+      "Smith and Jimmy show how a stolen object moves from burglary through an art fence and into Tessier-Ashpool’s recovery machinery.",
+    slugs: ["smith", "jimmy"],
+  },
+];
+
+const curatedSlugs = new Set(curatedGroupDefinitions.flatMap((group) => group.slugs));
+const supplementalLabels: Record<string, { title: string; description: string }> = {
+  Characters: {
+    title: "The people a fast first read can lose.",
+    description: "Messengers, dealers, operators, doctors, agents, witnesses, and remembered acquaintances whose brief actions keep the larger plot moving.",
+  },
+  Places: {
+    title: "The street map beneath the itinerary.",
+    description: "Markets, airports, districts, cities, and matrix coordinates—from Night City and Istanbul to Berne, Rio, and L-5.",
+  },
+  Organizations: {
+    title: "Companies, sects, carriers, and public infrastructure.",
+    description: "The named institutions hidden inside access codes, subsidiaries, satellite links, energy systems, and international travel.",
+  },
+  Technology: {
+    title: "The overlooked hardware, chemistry, vehicles, and media.",
+    description: "Small devices and branded systems explained by what they do in the scene, with real-world names kept separate from fictional specifications.",
+  },
+  Themes: {
+    title: "Background events with present-tense consequences.",
+    description: "Historical forces that survive through veterans, tools, institutions, and the novel’s damaged political memory.",
+  },
+};
+
+const supplementalGroupDefinitions = Object.entries(supplementalLabels)
+  .map(([category, copy], index) => ({
+    id: `fandom-${category.toLowerCase()}`,
+    eyebrow: `${String(index + 7).padStart(2, "0")} / Fandom cross-check · ${category}`,
+    ...copy,
+    slugs: microLoreArticles
+      .filter((article) => article.category === category && !curatedSlugs.has(article.slug))
+      .map((article) => article.slug),
+  }))
+  .filter((group) => group.slugs.length > 0);
+
+const groupDefinitions = [...curatedGroupDefinitions, ...supplementalGroupDefinitions];
 
 function articleForSlug(slug: string): WikiArticle {
   const article = articleBySlug.get(slug);
@@ -121,8 +172,8 @@ export default function GlossaryPage() {
             </div>
             <dl className="glossary-metrics" aria-label="Glossary depth">
               <div><dt>Long-form prose</dt><dd>{glossaryWords.toLocaleString()}</dd><span>words</span></div>
-              <div><dt>Recorded searches</dt><dd>142</dd><span>{`across ${microLoreArticles.length} entries`}</span></div>
-              <div><dt>Consulted links</dt><dd>203</dd><span>source trail</span></div>
+              <div><dt>Recorded searches</dt><dd>958</dd><span>{`across ${microLoreArticles.length} entries`}</span></div>
+              <div><dt>Consulted links</dt><dd>2,151</dd><span>source trail</span></div>
             </dl>
           </section>
 

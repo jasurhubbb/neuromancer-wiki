@@ -141,4 +141,19 @@ export const quotationBySlug: Record<string, BookQuote> = {
     citation: "Neuromancer, Part Two, Chapter 4",
     note: "Case specifies the briefing’s intended duration, not a named application or a documented processing deadline.",
   },
+  microsofts: {
+    text: "a dozen spikes of microsoft protruding from the socket behind his ear",
+    citation: "Neuromancer, Part Two, Chapter 4",
+    note: "Larry’s visible cluster establishes removable media and socket capacity without revealing the underlying interface engineering.",
+  },
+  smith: {
+    text: "Smith’s knowledge of the art business was formidable",
+    citation: "Neuromancer, Part Two, Chapter 5",
+    note: "The sentence describes an advantage produced by several art-history and sales-data microsofts, not automatic infallibility.",
+  },
+  jimmy: {
+    text: "Within days, Smith learned of Jimmy’s death.",
+    citation: "Neuromancer, Part Two, Chapter 5",
+    note: "The report makes retaliation strongly implied while withholding the killing, method, and killer’s individual identity.",
+  },
 };

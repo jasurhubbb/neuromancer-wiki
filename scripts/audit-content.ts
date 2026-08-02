@@ -80,6 +80,7 @@ warn(
 let microSearches = 0;
 let microConsultedLinks = 0;
 const researchedMicroSlugs = new Set<string>();
+const microLedgerBySlug = new Map<string, { queries: unknown[]; consulted: Array<{ title?: unknown; url?: unknown }> }>();
 
 for (const name of microResearchFiles) {
   const ledger = JSON.parse(await readFile(join(microResearchDirectory, name), "utf8"));
@@ -90,6 +91,7 @@ for (const name of microResearchFiles) {
   const minimumQueries = Number(ledger.researchStandard?.minimumQueries ?? 0);
   const minimumConsultedLinks = Number(ledger.researchStandard?.minimumConsultedLinks ?? 0);
   researchedMicroSlugs.add(ledger.slug);
+  microLedgerBySlug.set(ledger.slug, { queries, consulted });
   microSearches += queries.length;
   microConsultedLinks += consulted.length;
 
@@ -118,6 +120,32 @@ for (const slug of microLoreSlugs) {
 warn(microSearches >= 72, `Micro-lore ledgers record only ${microSearches} searches`);
 warn(microConsultedLinks >= 72, `Micro-lore ledgers record only ${microConsultedLinks} consulted links`);
 
+const fandomCoverage = JSON.parse(
+  await readFile(join(process.cwd(), "research", "fandom-coverage.json"), "utf8"),
+) as {
+  fandomTopicCount: number;
+  coveredTopicCount: number;
+  newPageCount: number;
+  existingOrAliasCount: number;
+  results: Array<{ fandomTitle: string; localSlug: string | null; coverageType: string }>;
+};
+const fandomArticles = allArticles.filter((article) => article.tags.includes("Fandom coverage"));
+warn(fandomCoverage.fandomTopicCount === 141, `Fandom coverage expected 141 topics; found ${fandomCoverage.fandomTopicCount}`);
+warn(fandomCoverage.coveredTopicCount === 141, `Fandom coverage has only ${fandomCoverage.coveredTopicCount} covered topics`);
+warn(fandomCoverage.results.length === 141, `Fandom coverage ledger has ${fandomCoverage.results.length} rows`);
+warn(fandomCoverage.newPageCount === 78, `Fandom coverage expected 78 new pages; found ${fandomCoverage.newPageCount}`);
+warn(fandomCoverage.existingOrAliasCount === 63, `Fandom coverage expected 63 existing/alias mappings; found ${fandomCoverage.existingOrAliasCount}`);
+warn(fandomArticles.length === 78, `Expected 78 Fandom-gap articles; found ${fandomArticles.length}`);
+for (const row of fandomCoverage.results) {
+  warn(Boolean(row.localSlug && articleSlugs.has(row.localSlug)), `Fandom topic ${row.fandomTitle} has no valid local article`);
+}
+for (const article of fandomArticles) {
+  const ledger = microLedgerBySlug.get(article.slug);
+  warn(Boolean(ledger), `${article.slug}: missing Fandom-gap research ledger`);
+  warn((ledger?.queries.length ?? 0) >= 10, `${article.slug}: fewer than 10 Fandom-gap searches`);
+  warn((ledger?.consulted.length ?? 0) >= 20, `${article.slug}: fewer than 20 Fandom-gap fetched pages`);
+}
+
 if (failures.length) {
   console.error(`Content audit failed with ${failures.length} issue(s):`);
   for (const failure of failures) console.error(`- ${failure}`);
@@ -138,6 +166,8 @@ console.log(
     `${microLoreSlugs.size} first-reader glossary articles`,
     `${microSearches} glossary searches`,
     `${microConsultedLinks} glossary source links`,
+    `${fandomCoverage.coveredTopicCount}/${fandomCoverage.fandomTopicCount} Fandom topics mapped`,
+    `${fandomArticles.length} new Fandom-gap pages`,
     `${quoteCount} brief, located novel quotations`,
   ].join(" · "),
 );

@@ -210,11 +210,12 @@ export default function ResearchPage() {
           <section className="research-micro-note" aria-labelledby="micro-research-title">
             <div>
               <p className="eyebrow">Additional first-reader research</p>
-              <h2 id="micro-research-title">Twenty-eight small signals, researched separately.</h2>
-              <p>RAM, the mycotoxin, the flip-flop switch, Memory Lane, the Hosaka précis, minor venues, drugs, weapons, and interfaces have 142 targeted searches and 203 consulted links of their own.</p>
+              <h2 id="micro-research-title">One hundred nine small signals, researched separately.</h2>
+              <p>RAM, the mycotoxin, the flip-flop switch, Memory Lane, minor characters, one-scene venues, brands, drugs, weapons, and interfaces have 958 targeted searches and 2,151 consulted links of their own.</p>
             </div>
             <div className="research-micro-note__links">
               <Link href="/glossary">Browse the glossary <span aria-hidden="true">→</span></Link>
+              <Link href="/fandom-coverage">Audit all 141 Fandom mappings <span aria-hidden="true">→</span></Link>
               <a href="https://github.com/jasurhubbb/neuromancer-wiki/tree/main/research/microlore" rel="noreferrer">Inspect its ledger files <span aria-hidden="true">↗</span></a>
             </div>
           </section>

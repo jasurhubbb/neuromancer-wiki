@@ -84,5 +84,74 @@ export function MicroLoreDiagram({ slug }: { slug: string }) {
     );
   }
 
+  if (slug === "microsofts") {
+    return (
+      <figure className="micro-diagram" aria-labelledby="microsofts-diagram-title">
+        <div className="micro-diagram__heading">
+          <p className="eyebrow">Functional map · established components only</p>
+          <p className="micro-diagram__title" id="microsofts-diagram-title">Software becomes a handled object, then a user-facing capability.</p>
+        </div>
+        <div className="micro-diagram__route">
+          <DiagramCard label="01 · Product" title="Colored silicon sliver" detail="Packaged beneath a clear bubble on white card" />
+          <span className="micro-diagram__arrow" aria-hidden="true">→</span>
+          <DiagramCard label="02 · Interface" title="Carbon socket" detail="A permanent implant behind the left ear" accent />
+          <span className="micro-diagram__arrow" aria-hidden="true">→</span>
+          <DiagramCard label="03 · User" title="Larry or Smith" detail="Several modules can be carried at once" />
+          <span className="micro-diagram__arrow" aria-hidden="true">→</span>
+          <DiagramCard label="04 · Demonstrated output" title="Knowledge or detection" detail="Art-market reference; Molly’s hidden rider" />
+        </div>
+        <figcaption>
+          The novel establishes this object-to-socket-to-user chain. It does not specify the neural protocol, guarantee instant motor skills, or make a microsoft a cyberspace deck.
+        </figcaption>
+      </figure>
+    );
+  }
+
+  if (slug === "smith") {
+    return (
+      <figure className="micro-diagram" aria-labelledby="smith-diagram-title">
+        <div className="micro-diagram__heading">
+          <p className="eyebrow">Chapter 5 · object and information trail</p>
+          <p className="micro-diagram__title" id="smith-diagram-title">Smith turns a stolen artifact into the first Tessier-Ashpool dossier.</p>
+        </div>
+        <div className="micro-diagram__route">
+          <DiagramCard label="01 · Supplier" title="Jimmy" detail="Brings the head back from high orbit" />
+          <span className="micro-diagram__arrow" aria-hidden="true">→</span>
+          <DiagramCard label="02 · Receiver" title="Smith" detail="Appraises, tests, and traces the commission" accent />
+          <span className="micro-diagram__arrow" aria-hidden="true">→</span>
+          <DiagramCard label="03 · Recovery" title="Unnamed clone assassin" detail="Returns the head and asks for Jimmy’s name" />
+          <span className="micro-diagram__arrow" aria-hidden="true">→</span>
+          <DiagramCard label="04 · Quiet search" title="Finn → cowboy" detail="Produces a précis of Tessier-Ashpool" />
+        </div>
+        <figcaption>
+          Case receives this chain through the Finn’s retelling. The visitor strongly anticipates Hideo, but the account never gives the clone an individual name.
+        </figcaption>
+      </figure>
+    );
+  }
+
+  if (slug === "jimmy") {
+    return (
+      <figure className="micro-diagram" aria-labelledby="jimmy-diagram-title">
+        <div className="micro-diagram__heading">
+          <p className="eyebrow">Provenance map · facts versus inference</p>
+          <p className="micro-diagram__title" id="jimmy-diagram-title">The object’s route is visible; Jimmy’s final hours are not.</p>
+        </div>
+        <div className="micro-diagram__route">
+          <DiagramCard label="Established" title="High orbit → Jimmy" detail="A year away; exact access route unknown" />
+          <span className="micro-diagram__arrow" aria-hidden="true">→</span>
+          <DiagramCard label="Established" title="Jimmy → Smith" detail="The talking head is left for a possible sale" accent />
+          <span className="micro-diagram__arrow" aria-hidden="true">→</span>
+          <DiagramCard label="Established" title="Smith → clone" detail="The head and Jimmy’s name are surrendered" />
+          <span className="micro-diagram__arrow" aria-hidden="true">→</span>
+          <DiagramCard label="Reported / inferred" title="Jimmy is dead" detail="Retaliation is clear; killer and method are unstated" />
+        </div>
+        <figcaption>
+          The novel reports the death only after the clone asks for Jimmy’s name. Calling that clone “Hideo” is a strong identification made in retrospect, not an explicit label in the scene.
+        </figcaption>
+      </figure>
+    );
+  }
+
   return null;
 }

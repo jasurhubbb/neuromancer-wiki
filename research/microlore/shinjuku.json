@@ -1,0 +1,146 @@
+{
+  "slug": "shinjuku",
+  "fandomTitle": "Shinjuku",
+  "searchedOn": "2026-08-02",
+  "searchCount": 10,
+  "queries": [
+    "\"Neuromancer Shinjuku\"",
+    "Neuromancer Shinjuku Tokyo wired electric night Snake Man",
+    "Neuromancer Shinjuku William Gibson meaning",
+    "Neuromancer Shinjuku chapter scene",
+    "Neuromancer Shinjuku reading guide",
+    "Neuromancer Shinjuku analysis",
+    "Neuromancer Shinjuku glossary explanation",
+    "site:reddit.com Neuromancer \"Shinjuku\"",
+    "site:williamgibson.fandom.com/wiki \"Shinjuku\"",
+    "Shinjuku real world history context William Gibson Neuromancer"
+  ],
+  "consultedCount": 24,
+  "consulted": [
+    {
+      "title": "William Gibson Wiki — Shinjuku",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Shinjuku&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Neuromancer",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Neuromancer&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — William Gibson",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=William+Gibson&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Sprawl trilogy",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Sprawl+trilogy&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Neuromancer (AI)",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Neuromancer+%28AI%29&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Case",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Case&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Count Zero",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Count+Zero&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Molly Millions",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Molly+Millions&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Jarre de Thé",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Jarre+de+Th%C3%A9&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — William Gibson Wiki",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=William+Gibson+Wiki&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Neuromancer (video game)",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Neuromancer+%28video+game%29&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Night City",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Night+City&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Cheap Hotel",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Cheap+Hotel&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — The Finn",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=The+Finn&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Burning Chrome",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Burning+Chrome&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Wintermute",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Wintermute&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Hitachi Pocket Computer",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Hitachi+Pocket+Computer&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Sense/Net",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Sense%2FNet&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — New Yen",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=New+Yen&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Tokyo",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Tokyo&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Snake Man",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Snake+Man&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Fox",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Fox&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Sandii",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Sandii&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — X",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=X&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    }
+  ],
+  "researchStandard": {
+    "minimumQueries": 10,
+    "minimumConsultedLinks": 20,
+    "met": true
+  }
+}

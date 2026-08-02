@@ -1,0 +1,146 @@
+{
+  "slug": "pierre",
+  "fandomTitle": "Pierre",
+  "searchedOn": "2026-08-02",
+  "searchCount": 10,
+  "queries": [
+    "\"Neuromancer Pierre\"",
+    "Neuromancer Pierre French Turing agent Freeside interrogation bad cop",
+    "Neuromancer Pierre William Gibson meaning",
+    "Neuromancer Pierre chapter scene",
+    "Neuromancer Pierre reading guide",
+    "Neuromancer Pierre analysis",
+    "Neuromancer Pierre glossary explanation",
+    "site:reddit.com Neuromancer \"Pierre\"",
+    "site:williamgibson.fandom.com/wiki \"Pierre\"",
+    "Pierre real world history context William Gibson Neuromancer"
+  ],
+  "consultedCount": 24,
+  "consulted": [
+    {
+      "title": "William Gibson Wiki — Pierre",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Pierre&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Neuromancer",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Neuromancer&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — William Gibson",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=William+Gibson&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Neuromancer (AI)",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Neuromancer+%28AI%29&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Roland",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Roland&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Sprawl trilogy",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Sprawl+trilogy&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Case",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Case&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Wintermute",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Wintermute&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Count Zero",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Count+Zero&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — The Finn",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=The+Finn&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Blue Nine",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Blue+Nine&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "Wikipedia — Science fiction",
+      "url": "https://en.wikipedia.org/wiki/Science_fiction",
+      "status": 200
+    },
+    {
+      "title": "Wikipedia — Kathy Acker",
+      "url": "https://en.wikipedia.org/wiki/Kathy_Acker",
+      "status": 200
+    },
+    {
+      "title": "Wikipedia — Evangelion (mecha)",
+      "url": "https://en.wikipedia.org/wiki/Evangelion_(mecha)",
+      "status": 200
+    },
+    {
+      "title": "Wikipedia — Dune (novel)",
+      "url": "https://en.wikipedia.org/wiki/Dune_(novel)",
+      "status": 200
+    },
+    {
+      "title": "Wikipedia — Novel",
+      "url": "https://en.wikipedia.org/wiki/Novel",
+      "status": 200
+    },
+    {
+      "title": "Wikipedia — Arthur C. Clarke",
+      "url": "https://en.wikipedia.org/wiki/Arthur_C._Clarke",
+      "status": 200
+    },
+    {
+      "title": "Wikipedia — Jean Giraud",
+      "url": "https://en.wikipedia.org/wiki/Jean_Giraud",
+      "status": 200
+    },
+    {
+      "title": "Wikipedia — History of science fiction",
+      "url": "https://en.wikipedia.org/wiki/History_of_science_fiction",
+      "status": 200
+    },
+    {
+      "title": "Wikipedia — Cultured meat",
+      "url": "https://en.wikipedia.org/wiki/Cultured_meat",
+      "status": 200
+    },
+    {
+      "title": "William Gibson Wiki — Burning Chrome",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Burning+Chrome&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Julius Deane",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Julius+Deane&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "Wikipedia — University of British Columbia",
+      "url": "https://en.wikipedia.org/wiki/University_of_British_Columbia",
+      "status": 200
+    },
+    {
+      "title": "Wikipedia — List of stock characters",
+      "url": "https://en.wikipedia.org/wiki/List_of_stock_characters",
+      "status": 200
+    }
+  ],
+  "researchStandard": {
+    "minimumQueries": 10,
+    "minimumConsultedLinks": 20,
+    "met": true
+  }
+}

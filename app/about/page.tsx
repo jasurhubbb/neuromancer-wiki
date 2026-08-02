@@ -7,7 +7,7 @@ import { SiteFooter } from "@/components/SiteFooter";
 
 export const metadata: Metadata = {
   title: "Research and editorial policy",
-  description: "How Neuromancer Atlas researches, labels, cites, and illustrates its 180 reader-focused articles.",
+  description: "How Neuromancer Atlas researches, labels, cites, and illustrates its 260 reader-focused articles.",
 };
 
 export default function AboutPage() {
@@ -67,8 +67,14 @@ export default function AboutPage() {
               <section>
                 <p className="eyebrow">Reader glossary</p>
                 <h2>Small details deserve full explanations.</h2>
-                <p>The {microLoreArticles.length} additional field notes address the compressed names, objects, places, slang, toxins, drugs, weapons, computers, money, and music that often interrupt a first reading. Each page contains at least 650 words, records its own targeted searches, and separates what the novel states from what readers or adaptations infer. The Mycotoxin, Flip-Flop Switch, Memory Lane, and Précis entries each meet or exceed the expanded ten-search, twenty-source standard.</p>
+                <p>The {microLoreArticles.length} additional field notes address the compressed names, objects, places, slang, toxins, drugs, weapons, computers, money, and music that often interrupt a first reading. Each page contains at least 650 words, records its own targeted searches, and separates what the novel states from what readers or adaptations infer. The 78 Fandom-gap pages each record ten searches and twenty-four successfully fetched pages.</p>
                 <p><Link href="/glossary">Browse the first-reader glossary →</Link></p>
+              </section>
+              <section>
+                <p className="eyebrow">Cross-wiki completeness</p>
+                <h2>Every discovered Neuromancer topic has a destination.</h2>
+                <p>A public category crawl follows the William Gibson Wiki’s Neuromancer and character categories. All 141 discovered topics map to a local page: 63 were already covered directly or under a stronger title, and 78 received new long-form articles. Incidental links to unrelated publishers, awards, people, and software are excluded from this topic boundary.</p>
+                <p><Link href="/fandom-coverage">Inspect the complete 141-row coverage ledger →</Link></p>
               </section>
               <section className="about-callout">
                 <p className="eyebrow">Quotations and copyright</p>

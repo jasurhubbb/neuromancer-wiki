@@ -1,0 +1,146 @@
+{
+  "slug": "elroy",
+  "fandomTitle": "Elroy",
+  "searchedOn": "2026-08-02",
+  "searchCount": 10,
+  "queries": [
+    "\"Neuromancer Elroy\"",
+    "Neuromancer Elroy Dixie Flatline Siberia POW phantom limb story",
+    "Neuromancer Elroy William Gibson meaning",
+    "Neuromancer Elroy chapter scene",
+    "Neuromancer Elroy reading guide",
+    "Neuromancer Elroy analysis",
+    "Neuromancer Elroy glossary explanation",
+    "site:reddit.com Neuromancer \"Elroy\"",
+    "site:williamgibson.fandom.com/wiki \"Elroy\"",
+    "Elroy real world history context William Gibson Neuromancer"
+  ],
+  "consultedCount": 24,
+  "consulted": [
+    {
+      "title": "William Gibson Wiki — Elroy",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Elroy&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Neuromancer",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Neuromancer&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Neuromancer (AI)",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Neuromancer+%28AI%29&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — William Gibson",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=William+Gibson&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Case",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Case&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Sprawl trilogy",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Sprawl+trilogy&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Count Zero",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Count+Zero&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Sprawl Trilogy",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Sprawl+Trilogy&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Wintermute",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Wintermute&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Johnny Mnemonic",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Johnny+Mnemonic&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Molly Millions",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Molly+Millions&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Mona Lisa Overdrive",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Mona+Lisa+Overdrive&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — The Finn",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=The+Finn&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Sense/Net",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Sense%2FNet&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Blue Nine",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Blue+Nine&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Intrusion Countermeasures Electronics",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Intrusion+Countermeasures+Electronics&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Turing Police",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Turing+Police&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Dixie Flatline",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Dixie+Flatline&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — The War",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=The+War&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "Penguin Random House — Neuromancer",
+      "url": "https://www.penguinrandomhouse.com/books/293994/neuromancer-by-william-gibson/",
+      "status": 200
+    },
+    {
+      "title": "Penguin Random House — reader's guide",
+      "url": "https://www.penguinrandomhouse.com/books/293994/neuromancer-by-william-gibson/readers-guide",
+      "status": 200
+    },
+    {
+      "title": "Washington State University — Neuromancer guide",
+      "url": "https://public.archive.wsu.edu/brians/public_html/science_fiction/neuromancer.html",
+      "status": 206
+    },
+    {
+      "title": "George Mason University — Neuromancer notes",
+      "url": "https://mason.gmu.edu/~dtaciuch/neuronotes/",
+      "status": 206
+    },
+    {
+      "title": "EBSCO — Neuromancer research starter",
+      "url": "https://www.ebsco.com/research-starters/literature-and-writing/neuromancer-william-gibson",
+      "status": 206
+    }
+  ],
+  "researchStandard": {
+    "minimumQueries": 10,
+    "minimumConsultedLinks": 20,
+    "met": true
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "slug": "jimmy",
+  "searchedOn": "2026-08-02",
+  "searchCount": 12,
+  "queries": [
+    "Neuromancer Jimmy burglar stolen head Smith",
+    "Neuromancer Jimmy \"year in high orbit\"",
+    "Neuromancer Jimmy death Hideo clone assassin",
+    "Neuromancer Chapter 5 Jimmy cloisonne head timeline",
+    "site:reddit.com/r/Neuromancer Jimmy stolen head Smith Hideo",
+    "site:williamgibson.fandom.com/wiki Jimmy Smith Neuromancer",
+    "site:litcharts.com/lit/neuromancer Jimmy Smith burglar",
+    "Neuromancer Jimmy Smith head provenance interpretation",
+    "Neuromancer Jimmy petty criminal art theft analysis",
+    "Neuromancer minor character Jimmy art dealer Smith",
+    "academic Neuromancer Jimmy Smith cloisonne head",
+    "Neuromancer stolen automaton head Jimmy ending terminal connection"
+  ],
+  "consultedCount": 24,
+  "consulted": [
+    { "title": "William Gibson Wiki — Jimmy", "url": "https://williamgibson.fandom.com/wiki/Jimmy" },
+    { "title": "William Gibson Wiki — Smith", "url": "https://williamgibson.fandom.com/wiki/Smith" },
+    { "title": "William Gibson Wiki — The Finn", "url": "https://williamgibson.fandom.com/wiki/The_Finn" },
+    { "title": "William Gibson Wiki — Talking head", "url": "https://williamgibson.fandom.com/wiki/Talking_head" },
+    { "title": "LitCharts — Character list", "url": "https://www.litcharts.com/lit/neuromancer/characters" },
+    { "title": "LitCharts — Chapter 5", "url": "https://www.litcharts.com/lit/neuromancer/chapter-5" },
+    { "title": "GradeSaver — Chapters 3–7, Part Two", "url": "https://www.gradesaver.com/neuromancer/study-guide/summary-chapters-3-7-part-ii" },
+    { "title": "SuperSummary — Part Two, Chapters 3–7", "url": "https://www.supersummary.com/neuromancer/part-2-chapters-3-7-summary/" },
+    { "title": "OpenFiction — Neuromancer chapter index", "url": "https://openfiction.org/books/PM4H49UkyQHyYG0-EGTVn/neuromancer/chapters" },
+    { "title": "Course Hero — Part Two, Chapter 5", "url": "https://www.coursehero.com/lit/Neuromancer/part-2-chapter-5-summary/" },
+    { "title": "Reddit — Jimmy and the stolen head", "url": "https://www.reddit.com/r/Neuromancer/comments/ey9vg8/jimmy_and_the_stolen_head/" },
+    { "title": "Reddit — Explain the head-bust terminal", "url": "https://www.reddit.com/r/Neuromancer/comments/181dt6r/can_someone_explain_the_headbust_terminal/" },
+    { "title": "Reddit Bookclub — Chapters 16 through end", "url": "https://www.reddit.com/r/bookclub/comments/1h1gxoj/discussion_evergreen_neuromancer_sprawl_trilogy_1/" },
+    { "title": "Rhulha — Neuromancer chapter summaries", "url": "https://rhulha.github.io/book-summaries/books/neuromancer/" },
+    { "title": "Penguin Random House — Neuromancer reader’s guide", "url": "https://www.penguinrandomhouse.com/books/293994/neuromancer-by-william-gibson/readers-guide" },
+    { "title": "PCWorld — Neuromancer at 25", "url": "https://www.pcworld.com/article/523950/neuro.html" },
+    { "title": "LitCharts — Technology and the Body", "url": "https://www.litcharts.com/lit/neuromancer/themes/technology-and-the-body" },
+    { "title": "Reddit — Neuromancer terms and definitions", "url": "https://www.reddit.com/r/Neuromancer/comments/pn7l5w/neuromancer_terms_and_definitions/" },
+    { "title": "Reddit — A hard read, but worth it", "url": "https://www.reddit.com/r/Neuromancer/comments/1jcvii7/a_hard_read_but_worth_it/" },
+    { "title": "Reddit — Neuromancer timeline before the story", "url": "https://www.reddit.com/r/Neuromancer/comments/1fjmjj9/neuromancer_timeline_before_the_story/" },
+    { "title": "Reddit — Questions about Neuromancer", "url": "https://www.reddit.com/r/Neuromancer/comments/ezbu4l/questions_about_neuromancer/" },
+    { "title": "EBSCO — Neuromancer research starter", "url": "https://www.ebsco.com/research-starters/literature-and-writing/neuromancer-william-gibson" },
+    { "title": "Polish Journal of American Studies — Neuromancer analysis", "url": "https://paas.org.pl/wp-content/uploads/2013/10/PJAS_12_autumn_2018.pdf" },
+    { "title": "Reddit — Expansive Neuromancer reading guide and index", "url": "https://www.reddit.com/r/Neuromancer/comments/1auktqt/expansive_neuromancer_1984_reading_guide_and_index/" }
+  ],
+  "researchStandard": {
+    "minimumQueries": 10,
+    "minimumConsultedLinks": 20,
+    "met": true
+  }
+}

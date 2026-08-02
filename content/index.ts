@@ -12,6 +12,10 @@ import { mycotoxinArticles } from "./mycotoxin";
 import { flipFlopSwitchArticles } from "./flip-flop-switch";
 import { memoryLaneArticles } from "./memory-lane";
 import { precisArticles } from "./precis";
+import { minorCharacterArticles } from "./minor-characters";
+import { fandomMicroPeopleArticles } from "./fandom-micro-people";
+import { fandomMicroPlaceArticles } from "./fandom-micro-places";
+import { fandomMicroSystemArticles } from "./fandom-micro-systems";
 import { quotationBySlug } from "./quotes";
 import { editorialCodaBySlug, editorialExpansionBySlug } from "./editorial-expansions";
 import type { WikiArticle } from "./types";
@@ -54,6 +58,10 @@ const rawArticles = [
   ...flipFlopSwitchArticles,
   ...memoryLaneArticles,
   ...precisArticles,
+  ...minorCharacterArticles,
+  ...fandomMicroPeopleArticles,
+  ...fandomMicroPlaceArticles,
+  ...fandomMicroSystemArticles,
 ];
 
 export const microLoreSlugs = new Set(
@@ -64,6 +72,11 @@ export const microLoreSlugs = new Set(
     ...flipFlopSwitchArticles,
     ...memoryLaneArticles,
     ...precisArticles,
+    ...technologyArticles.filter((article) => article.slug === "microsofts"),
+    ...minorCharacterArticles,
+    ...fandomMicroPeopleArticles,
+    ...fandomMicroPlaceArticles,
+    ...fandomMicroSystemArticles,
   ].map((article) => article.slug),
 );
 
@@ -79,9 +92,10 @@ const relatedMicroLoreBySlug: Record<string, string[]> = {
   "cyberspace-decks": ["flip-flop-switch"],
   "simstim-sensorium": ["flip-flop-switch", "memory-lane"],
   "ono-sendai-cyberspace-seven": ["flip-flop-switch"],
-  "the-finn": ["flip-flop-switch"],
+  "the-finn": ["flip-flop-switch", "smith", "jimmy"],
   "chapter-03": ["flip-flop-switch", "mycotoxin"],
-  "chapter-04": ["memory-lane", "flip-flop-switch", "precis"],
+  "chapter-04": ["memory-lane", "flip-flop-switch", "precis", "microsofts"],
+  "chapter-05": ["smith", "jimmy", "microsofts"],
   "chapter-24": ["mycotoxin"],
   wintermute: ["mycotoxin"],
   "cheap-hotel": ["chiba-hilton", "case-hitachi-pocket-computer"],
@@ -89,7 +103,14 @@ const relatedMicroLoreBySlug: Record<string, string[]> = {
   "armitage-willis-corto": ["chiba-hilton"],
   freeside: ["intercontinental-freeside", "desiderata-street", "vingtieme-siecle"],
   "sprawl-bama": ["memory-lane"],
-  microsofts: ["memory-lane"],
+  microsofts: ["memory-lane", "smith"],
+  smith: ["jimmy", "microsofts", "cloisonne-head-terminal"],
+  jimmy: ["smith", "cloisonne-head-terminal", "villa-straylight"],
+  "cloisonne-head-terminal": ["smith", "jimmy"],
+  hideo: ["jimmy", "smith"],
+  "villa-straylight": ["jimmy", "smith"],
+  "tessier-ashpool-sa": ["smith", "jimmy"],
+  "tessier-ashpool-family": ["smith", "jimmy"],
   "panther-moderns": ["memory-lane", "precis"],
   johnny: ["memory-lane"],
   "hosaka-computers": ["precis"],

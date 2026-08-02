@@ -1,0 +1,146 @@
+{
+  "slug": "shiga-night-city",
+  "fandomTitle": "Shiga",
+  "searchedOn": "2026-08-02",
+  "searchCount": 10,
+  "queries": [
+    "\"Neuromancer Shiga\"",
+    "Neuromancer Shiga market stalls Shin gun Case",
+    "Neuromancer Shiga William Gibson meaning",
+    "Neuromancer Shiga chapter scene",
+    "Neuromancer Shiga reading guide",
+    "Neuromancer Shiga analysis",
+    "Neuromancer Shiga glossary explanation",
+    "site:reddit.com Neuromancer \"Shiga\"",
+    "site:williamgibson.fandom.com/wiki \"Shiga\"",
+    "Shiga real world history context William Gibson Neuromancer"
+  ],
+  "consultedCount": 24,
+  "consulted": [
+    {
+      "title": "William Gibson Wiki — Shiga",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Shiga&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Neuromancer",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Neuromancer&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Neuromancer (AI)",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Neuromancer+%28AI%29&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — William Gibson",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=William+Gibson&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Sprawl trilogy",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Sprawl+trilogy&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Case",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Case&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Count Zero",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Count+Zero&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Molly Millions",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Molly+Millions&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Wintermute",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Wintermute&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Microsoft",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Microsoft&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — William Gibson Wiki",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=William+Gibson+Wiki&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Neuromancer (video game)",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Neuromancer+%28video+game%29&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Burning Chrome",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Burning+Chrome&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Mona Lisa Overdrive",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Mona+Lisa+Overdrive&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — The Finn",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=The+Finn&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Night City",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Night+City&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Matsuga",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Matsuga&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Blue Nine",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Blue+Nine&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — New Yen",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=New+Yen&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Shin",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Shin&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "Penguin Random House — Neuromancer",
+      "url": "https://www.penguinrandomhouse.com/books/293994/neuromancer-by-william-gibson/",
+      "status": 200
+    },
+    {
+      "title": "Penguin Random House — reader's guide",
+      "url": "https://www.penguinrandomhouse.com/books/293994/neuromancer-by-william-gibson/readers-guide",
+      "status": 200
+    },
+    {
+      "title": "Washington State University — Neuromancer guide",
+      "url": "https://public.archive.wsu.edu/brians/public_html/science_fiction/neuromancer.html",
+      "status": 206
+    },
+    {
+      "title": "George Mason University — Neuromancer notes",
+      "url": "https://mason.gmu.edu/~dtaciuch/neuronotes/",
+      "status": 206
+    }
+  ],
+  "researchStandard": {
+    "minimumQueries": 10,
+    "minimumConsultedLinks": 20,
+    "met": true
+  }
+}

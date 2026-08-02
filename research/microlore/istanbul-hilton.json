@@ -1,0 +1,146 @@
+{
+  "slug": "istanbul-hilton",
+  "fandomTitle": "Istanbul Hilton",
+  "searchedOn": "2026-08-02",
+  "searchCount": 10,
+  "queries": [
+    "\"Neuromancer Istanbul Hilton\"",
+    "Neuromancer Istanbul Hilton Armitage crew Riviera operation hotel",
+    "Neuromancer Istanbul Hilton William Gibson meaning",
+    "Neuromancer Istanbul Hilton chapter scene",
+    "Neuromancer Istanbul Hilton reading guide",
+    "Neuromancer Istanbul Hilton analysis",
+    "Neuromancer Istanbul Hilton glossary explanation",
+    "site:reddit.com Neuromancer \"Istanbul Hilton\"",
+    "site:williamgibson.fandom.com/wiki \"Istanbul Hilton\"",
+    "Istanbul Hilton real world history context William Gibson Neuromancer"
+  ],
+  "consultedCount": 24,
+  "consulted": [
+    {
+      "title": "William Gibson Wiki — Istanbul Hilton",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Istanbul+Hilton&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Istanbul",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Istanbul&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Peter Riviera",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Peter+Riviera&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Neuromancer",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Neuromancer&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Cumhuriyet Caddesi",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Cumhuriyet+Caddesi&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Yenishehir Palas Oteli",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Yenishehir+Palas+Oteli&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Case",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Case&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — William Gibson",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=William+Gibson&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Chiba Hilton",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Chiba+Hilton&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Sprawl trilogy",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Sprawl+trilogy&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Wintermute",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Wintermute&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Molly Millions",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Molly+Millions&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Armitage",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Armitage&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — The Finn",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=The+Finn&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Cheap Hotel",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Cheap+Hotel&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Orly",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Orly&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Beyoglu",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Beyoglu&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Mercedes",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Mercedes&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Grand Bazaar",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Grand+Bazaar&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Terzibashjian",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Terzibashjian&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "Penguin Random House — Neuromancer",
+      "url": "https://www.penguinrandomhouse.com/books/293994/neuromancer-by-william-gibson/",
+      "status": 200
+    },
+    {
+      "title": "Penguin Random House — reader's guide",
+      "url": "https://www.penguinrandomhouse.com/books/293994/neuromancer-by-william-gibson/readers-guide",
+      "status": 200
+    },
+    {
+      "title": "Washington State University — Neuromancer guide",
+      "url": "https://public.archive.wsu.edu/brians/public_html/science_fiction/neuromancer.html",
+      "status": 206
+    },
+    {
+      "title": "George Mason University — Neuromancer notes",
+      "url": "https://mason.gmu.edu/~dtaciuch/neuronotes/",
+      "status": 206
+    }
+  ],
+  "researchStandard": {
+    "minimumQueries": 10,
+    "minimumConsultedLinks": 20,
+    "met": true
+  }
+}

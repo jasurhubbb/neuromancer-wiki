@@ -1,0 +1,146 @@
+{
+  "slug": "l5-archipelago",
+  "fandomTitle": "L-5 archipelago",
+  "searchedOn": "2026-08-02",
+  "searchCount": 10,
+  "queries": [
+    "\"Neuromancer L-5 archipelago\"",
+    "Neuromancer L-5 archipelago Freeside Zion orbital geography Lagrange point",
+    "Neuromancer L-5 archipelago William Gibson meaning",
+    "Neuromancer L-5 archipelago chapter scene",
+    "Neuromancer L-5 archipelago reading guide",
+    "Neuromancer L-5 archipelago analysis",
+    "Neuromancer L-5 archipelago glossary explanation",
+    "site:reddit.com Neuromancer \"L-5 archipelago\"",
+    "site:williamgibson.fandom.com/wiki \"L-5 archipelago\"",
+    "L-5 archipelago real world history context William Gibson Neuromancer"
+  ],
+  "consultedCount": 24,
+  "consulted": [
+    {
+      "title": "William Gibson Wiki — L-5 archipelago",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=L-5+archipelago&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Neuromancer",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Neuromancer&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Sprawl trilogy",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Sprawl+trilogy&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — William Gibson",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=William+Gibson&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Orly",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Orly&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Count Zero",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Count+Zero&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Zion",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Zion&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Case",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Case&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Wintermute",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Wintermute&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Talking head",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Talking+head&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Armitage",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Armitage&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Timeline",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Timeline&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Sprawl Trilogy",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Sprawl+Trilogy&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Sense/Net Pyramid",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Sense%2FNet+Pyramid&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Night City",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Night+City&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Sense/Net",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Sense%2FNet&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Turing Police",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Turing+Police&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Blue Nine",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Blue+Nine&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Christian Scientists",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Christian+Scientists&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — JAL",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=JAL&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "Penguin Random House — Neuromancer",
+      "url": "https://www.penguinrandomhouse.com/books/293994/neuromancer-by-william-gibson/",
+      "status": 200
+    },
+    {
+      "title": "Penguin Random House — reader's guide",
+      "url": "https://www.penguinrandomhouse.com/books/293994/neuromancer-by-william-gibson/readers-guide",
+      "status": 200
+    },
+    {
+      "title": "Washington State University — Neuromancer guide",
+      "url": "https://public.archive.wsu.edu/brians/public_html/science_fiction/neuromancer.html",
+      "status": 206
+    },
+    {
+      "title": "George Mason University — Neuromancer notes",
+      "url": "https://mason.gmu.edu/~dtaciuch/neuronotes/",
+      "status": 206
+    }
+  ],
+  "researchStandard": {
+    "minimumQueries": 10,
+    "minimumConsultedLinks": 20,
+    "met": true
+  }
+}

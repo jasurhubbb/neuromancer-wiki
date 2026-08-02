@@ -1,0 +1,146 @@
+{
+  "slug": "spice-bazaar",
+  "fandomTitle": "Spice Bazaar",
+  "searchedOn": "2026-08-02",
+  "searchCount": 10,
+  "queries": [
+    "\"Neuromancer Spice Bazaar\"",
+    "Neuromancer Spice Bazaar Istanbul Egyptian Bazaar Riviera drugs Finn horse",
+    "Neuromancer Spice Bazaar William Gibson meaning",
+    "Neuromancer Spice Bazaar chapter scene",
+    "Neuromancer Spice Bazaar reading guide",
+    "Neuromancer Spice Bazaar analysis",
+    "Neuromancer Spice Bazaar glossary explanation",
+    "site:reddit.com Neuromancer \"Spice Bazaar\"",
+    "site:williamgibson.fandom.com/wiki \"Spice Bazaar\"",
+    "Spice Bazaar real world history context William Gibson Neuromancer"
+  ],
+  "consultedCount": 24,
+  "consulted": [
+    {
+      "title": "William Gibson Wiki — Spice Bazaar",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Spice+Bazaar&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Neuromancer",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Neuromancer&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — William Gibson",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=William+Gibson&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Sprawl trilogy",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Sprawl+trilogy&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — The Finn",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=The+Finn&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Neuromancer (AI)",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Neuromancer+%28AI%29&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Molly Millions",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Molly+Millions&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Case",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Case&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Jarre de Thé",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Jarre+de+Th%C3%A9&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Count Zero",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Count+Zero&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Peter Riviera",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Peter+Riviera&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Julius Deane",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Julius+Deane&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Burning Chrome",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Burning+Chrome&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Sense/Net",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Sense%2FNet&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Wintermute",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Wintermute&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Sammi's",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Sammi%27s&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Julius Deane Import Export",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Julius+Deane+Import+Export&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Blue Nine",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Blue+Nine&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — House of the Blue Lights",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=House+of+the+Blue+Lights&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Christian Scientists",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Christian+Scientists&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Istanbul",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Istanbul&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Grand Bazaar",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Grand+Bazaar&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Beyoglu",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Beyoglu&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Ali",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Ali&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    }
+  ],
+  "researchStandard": {
+    "minimumQueries": 10,
+    "minimumConsultedLinks": 20,
+    "met": true
+  }
+}

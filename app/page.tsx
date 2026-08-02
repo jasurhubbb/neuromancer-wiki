@@ -9,7 +9,7 @@ import { ArticleCard } from "@/components/ArticleCard";
 
 export const metadata: Metadata = {
   title: "Neuromancer Atlas — A field guide to the Sprawl",
-  description: "Explore 180 researched pages about William Gibson’s Neuromancer: characters, locations, cyberspace, technology, chapter guides, small details, themes, and influence.",
+  description: "Explore 260 researched pages about William Gibson’s Neuromancer: characters, locations, cyberspace, technology, chapter guides, small details, themes, and influence.",
 };
 
 const glossaryHighlights = [
@@ -19,6 +19,9 @@ const glossaryHighlights = [
   "memory-lane",
   "ono-sendai-cyberspace-seven",
   "precis",
+  "microsofts",
+  "smith",
+  "jimmy",
 ].flatMap((slug) => {
   const article = articleBySlug.get(slug);
   return article ? [article] : [];
@@ -99,12 +102,12 @@ export default function Home() {
             <div>
               <p className="eyebrow">Built for scrutiny</p>
               <h2 id="research-title">Research you can audit, not lore by repetition.</h2>
-              <p>The first twenty dossiers each carry a ledger of ten distinct searches and at least twenty fetched sources. Every article separates the novel, wider Sprawl continuity, adaptations, and critical interpretation.</p>
+              <p>The first twenty dossiers each carry a deep-research ledger, while 109 micro-lore pages record their own searches and consulted sources. Every article separates the novel, wider Sprawl continuity, adaptations, and critical interpretation.</p>
               <Link className="hero-cta" href="/about">Read the editorial method</Link>
             </div>
             <div className="research-ledger" aria-label="Research ledger statistics">
-              <div><strong>200+</strong><span>web searches</span></div>
-              <div><strong>480+</strong><span>source reads</span></div>
+              <div><strong>1,158+</strong><span>web searches</span></div>
+              <div><strong>2,631+</strong><span>source reads</span></div>
               <div><strong>{priorityResearchArticles.length}</strong><span>audited dossiers</span></div>
               <div><strong>{quotationCount}</strong><span>brief, located quotes</span></div>
             </div>

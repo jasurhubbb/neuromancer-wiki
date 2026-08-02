@@ -1,0 +1,146 @@
+{
+  "slug": "akai-transdermal-unit",
+  "fandomTitle": "Akai",
+  "searchedOn": "2026-08-01",
+  "searchCount": 10,
+  "queries": [
+    "\"Neuromancer Akai\"",
+    "Neuromancer Akai transdermal inducer Molly Sense/Net injury",
+    "Neuromancer Akai William Gibson meaning",
+    "Neuromancer Akai chapter scene",
+    "Neuromancer Akai reading guide",
+    "Neuromancer Akai analysis",
+    "Neuromancer Akai glossary explanation",
+    "site:reddit.com Neuromancer \"Akai\"",
+    "site:williamgibson.fandom.com/wiki \"Akai\"",
+    "Akai real world history context William Gibson Neuromancer"
+  ],
+  "consultedCount": 24,
+  "consulted": [
+    {
+      "title": "William Gibson Wiki — Akai",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Akai&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Neuromancer",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Neuromancer&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Neuromancer (AI)",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Neuromancer+%28AI%29&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — William Gibson",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=William+Gibson&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Sprawl trilogy",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Sprawl+trilogy&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Neuromancer (video game)",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Neuromancer+%28video+game%29&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Case",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Case&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Count Zero",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Count+Zero&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Molly Millions",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Molly+Millions&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — William Gibson Wiki",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=William+Gibson+Wiki&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Mona Lisa Overdrive",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Mona+Lisa+Overdrive&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Burning Chrome",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Burning+Chrome&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Dermatrodes",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Dermatrodes&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Wintermute",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Wintermute&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Sense/Net",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Sense%2FNet&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Intrusion Countermeasures Electronics",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Intrusion+Countermeasures+Electronics&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Cyberspace deck",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Cyberspace+deck&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Matrix",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Matrix&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "William Gibson Wiki — Japan",
+      "url": "https://williamgibson.fandom.com/api.php?action=parse&page=Japan&prop=text%7Clinks%7Ccategories&format=json&origin=*",
+      "status": 206
+    },
+    {
+      "title": "Penguin Random House — Neuromancer",
+      "url": "https://www.penguinrandomhouse.com/books/293994/neuromancer-by-william-gibson/",
+      "status": 200
+    },
+    {
+      "title": "Penguin Random House — reader's guide",
+      "url": "https://www.penguinrandomhouse.com/books/293994/neuromancer-by-william-gibson/readers-guide",
+      "status": 200
+    },
+    {
+      "title": "Washington State University — Neuromancer guide",
+      "url": "https://public.archive.wsu.edu/brians/public_html/science_fiction/neuromancer.html",
+      "status": 206
+    },
+    {
+      "title": "George Mason University — Neuromancer notes",
+      "url": "https://mason.gmu.edu/~dtaciuch/neuronotes/",
+      "status": 206
+    },
+    {
+      "title": "EBSCO — Neuromancer research starter",
+      "url": "https://www.ebsco.com/research-starters/literature-and-writing/neuromancer-william-gibson",
+      "status": 206
+    }
+  ],
+  "researchStandard": {
+    "minimumQueries": 10,
+    "minimumConsultedLinks": 20,
+    "met": true
+  }
+}
